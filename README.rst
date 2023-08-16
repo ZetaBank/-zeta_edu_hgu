@@ -10,4 +10,4 @@ https://docs.readthedocs.io/en/stable/tutorial/
 
 
 link
-https://zeta-edu-lecture.readthedocs.io/en/latest/
+https://zeta-edu-hgu.readthedocs.io/en/latest/
