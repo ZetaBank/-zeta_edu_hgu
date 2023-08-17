@@ -13,7 +13,7 @@ Problem Solving Project
         <ul>
             <li>Let's discuss and summarize the given topic with the team members.</li>
             <li>It's a time to reflect on the thoughts of the team members and your own thoughts.</li>
-            <li>Now, let's share our thoughts with our team!</li>
+            <li>Now, let's share our thoughts with our team members!</li>
         </ul>
     </div>
 

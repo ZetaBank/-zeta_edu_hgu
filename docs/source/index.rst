@@ -67,11 +67,19 @@ In Education Provided by ZetaBank:
     :caption: AI Training and Cooperation Programs
     :hidden:
     
-    lecture_courses/course_2/1.index
-    lecture_courses/course_2/2.ai_pose_detect/1.index
-    lecture_courses/course_2/3.robot_control_move/1.index
-    lecture_courses/course_2/4.make_robot/1.index
-    lecture_courses/course_2/5.robot_arm_ex/1.index
+    courses/course_2/1.team_quiz_presentation/0.index
+    courses/course_2/2.ai_1/0.index
+    courses/course_2/3.problem_solve/0.index
+    courses/course_2/4.ai_rec_1/0.index
+    courses/course_2/5.ai_pos_3/0.index
+    courses/course_2/6.ai_obj_2/0.index
+    courses/course_2/7.team_mission/0.index
+    courses/course_2/8.ai_dep_4/0.index
+    courses/course_2/9.ai_2/0.index
+    courses/course_2/10.team_quiz/0.index
+    courses/course_2/11.problem_solve_presentation/0.index
+    courses/course_2/12.ai_tao_7/0.index
+    courses/course_2/13.team_diy/0.index
    
 .. toctree:: 
     :caption: Robot Autonomous Driving Application

@@ -21,8 +21,8 @@ Problem Solving Project
 
 3. Topic:
 
-    Technical and Business Analysis
+    AI Application Success Case Analysis
 
-    1. Autonomous Driving Car
+    1. Successful cases of applying AI
 
-    2. Autonomous Driving Robot
+    2. Reasons for Success
