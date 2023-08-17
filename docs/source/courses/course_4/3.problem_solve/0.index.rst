@@ -1,6 +1,8 @@
-Team Quiz Presentation (Autonomous Driving)
+Problem Solving Project
 ================
 
-1. Let's present the autonomous driving quiz by team.
+4.Technology Development Plan
 
-2. You will now be assigned to a new team.
+1. What kind of robot are you going to build?
+
+2. What technology will you use?

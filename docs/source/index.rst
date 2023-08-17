@@ -86,7 +86,20 @@ In Education Provided by ZetaBank:
     :caption: Robotic Arm Application
     :hidden:
     
-    courses/course_4/0.index
+    courses/course_4/1.team_quiz_presentation/0.index
+    courses/course_4/2.robot_arm_basic/0.index
+    courses/course_4/3.problem_solve/0.index
+    courses/course_4/4.robot_arm_1/0.index
+    courses/course_4/5.robot_arm_2/0.index
+    courses/course_4/6.team_quiz/0.index
+    courses/course_4/7.team_diy_1/0.index
+    courses/course_4/8.team_mission/0.index
+    courses/course_4/9.team_quiz_presentation/0.index
+    courses/course_4/10.team_coop/0.index
+    courses/course_4/11.team_diy_2/0.index
+    courses/course_4/12.team_dance_presentation/0.index
+    courses/course_4/13.problem_solve_presentation/0.index
+    courses/course_4/14.qna/0.index
 
 
 .. toctree::

@@ -1,6 +1,2 @@
-Team Quiz Presentation (Autonomous Driving)
+What kind of robot will you build?
 ================
-
-1. Let's present the autonomous driving quiz by team.
-
-2. You will now be assigned to a new team.
