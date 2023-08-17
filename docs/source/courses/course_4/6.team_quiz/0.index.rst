@@ -1,4 +1,31 @@
 Team Quiz (Robot Arm)
 ================
 
-Find your answer by choosing one of the quizzes below.
+.. raw:: html
+    
+    <div style="background: #C3F8FF" class="admonition note custom">
+        <p style="background: light-blue" class="admonition-title">
+            Team Quiz: Robot Arm
+        </p>
+        <div class="line-block">
+            <div class="line">This is a team quiz session where each team solves a quiz.</div>
+        </div>
+        <ul>
+            <li>Let's use what we've learned so far to find the answer to the quiz.</li>
+            <li>It's time to find the answer to some of the quizzes below.</li>
+            <li>After answering the team quiz, there will be presentations by each team.</li>
+        </ul>
+    </div>
+
+.. raw:: html
+
+1. 
+2.
+3.
+4.
+5.
+6.
+7.
+8.
+9.
+10.

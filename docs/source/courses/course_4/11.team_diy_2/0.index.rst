@@ -1,2 +1,20 @@
-Team DIY Dancing Ⅱ
+Robot Arm Dance Project - Ⅱ
 ================
+
+.. raw:: html
+    
+    <div style="background: #C3F8FF" class="admonition note custom">
+        <p style="background: light-blue" class="admonition-title">
+            Robot Arm Dance Project: Ⅱ
+        </p>
+        <div class="line-block">
+            <div class="line">This is a project to create your own robot dance by team.</div>
+        </div>
+        <ul>
+            <li>Let's make the robot dance to the music you want together.</li>
+            <li>It's time for each team to select the music they want and have them dance to the music.</li>
+            <li>Now, it's time to imagine a better dance with code and decorate the robot arm to show off a fancy dance.</li>
+        </ul>
+    </div>
+
+.. raw:: html

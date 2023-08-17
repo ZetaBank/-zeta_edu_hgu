@@ -1,8 +1,0 @@
-Problem Solving Project
-================
-
-4.Technology Development Plan
-
-1. What kind of robot are you going to build?
-
-2. What technology will you use?

@@ -1,2 +1,20 @@
 Q&A
 ================
+
+.. raw:: html
+    
+    <div style="background: #C3F8FF" class="admonition note custom">
+        <p style="background: light-blue" class="admonition-title">
+            Q&A and Feedback Session
+        </p>
+        <div class="line-block">
+            <div class="line">It's the last hour of the lecture.</div>
+        </div>
+        <ul>
+            <li>If you have any questions while listening to the lecture, please ask.</li>
+            <li>Any questions about the robot ecosystem, hardware, code configuration, etc. are welcome.</li>
+            <li>Thank you for your hard work listening to the lecture.</li>
+        </ul>
+    </div>
+
+.. raw:: html

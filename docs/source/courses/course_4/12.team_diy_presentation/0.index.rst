@@ -1,11 +1,11 @@
-Collaboration Program - Ⅰ
+Robot Arm Dance Project - Presentation
 ================
 
 .. raw:: html
     
     <div style="background: #C3F8FF" class="admonition note custom">
         <p style="background: light-blue" class="admonition-title">
-            Collaboration Program - Ⅰ
+            Robot Arm Dance Project: Presentation
         </p>
         <div class="line-block">
             <div class="line">This is a project where teams work together to accomplish missions and challenges.</div>
@@ -18,7 +18,3 @@ Collaboration Program - Ⅰ
     </div>
 
 .. raw:: html
-
-1. gotcha
-
-2. mission
