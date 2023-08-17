@@ -1,11 +1,11 @@
-Problem Solving Project
+Problem Solving Project Presentation
 ================
 
 .. raw:: html
     
     <div style="background: #C3F8FF" class="admonition note custom">
         <p style="background: light-blue" class="admonition-title">
-            Problem Solving Project : Discussion
+            Problem Solving Project: Presentation
         </p>
         <div class="line-block">
             <div class="line">This is for each team to thoroughly discuss and present a given topic.</div>
@@ -13,16 +13,16 @@ Problem Solving Project
         <ul>
             <li>Let's discuss and summarize the given topic with the team members.</li>
             <li>It's a time to reflect on the thoughts of the team members and your own thoughts.</li>
-            <li>Now, let's share our thoughts with our team!</li>
+            <li>Now, let's share our thoughts with our team members.</li>
         </ul>
     </div>
 
 .. raw:: html
 
-4. Topic:
+3. Topic:
 
-    Technology Development Plan
+    Technical and Business Analysis
 
-    1. What kind of robot are you going to build?
+    1. Autonomous Driving Car
 
-    2. What technology will you use?
+    2. Autonomous Driving Robot
