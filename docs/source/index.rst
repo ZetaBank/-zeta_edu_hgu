@@ -83,12 +83,10 @@ In Education Provided by ZetaBank:
     lecture_courses/course_3/4.robot_arm_ex/1.index
 
 .. toctree::
-    :hidden:
     :caption: Robotic Arm Application
+    :hidden:
     
-    lecture_courses/course_4/1.index
-    lecture_courses/course_4/2.ai_tao/1.index
-    lecture_courses/course_4/3.robot_competition_ex/1.index
+    courses/course_4/0.index
 
 
 .. toctree::
