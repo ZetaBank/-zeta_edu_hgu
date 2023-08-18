@@ -20,6 +20,6 @@ Team Quiz (Robot)
 .. raw:: html
 
 Topic: 
-    1. Components of the robot
+    1. Components of the robot.
     
-    2. Robot assembly status by team
+    2. Robot assembly status by team.

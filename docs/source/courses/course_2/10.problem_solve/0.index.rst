@@ -1,11 +1,11 @@
-Problem Solving Project Presentation
+Problem Solving Project
 ================
 
 .. raw:: html
     
     <div style="background: #C3F8FF" class="admonition note custom">
         <p style="background: light-blue" class="admonition-title">
-            Problem Solving Project: Presentation
+            Problem Solving Project : Discussion
         </p>
         <div class="line-block">
             <div class="line">This is for each team to thoroughly discuss and present a given topic.</div>
@@ -19,10 +19,7 @@ Problem Solving Project Presentation
 
 .. raw:: html
 
-4. Topic:
+1. Topic: What is the implementation methodology of the 4th industrial revolution?
 
-    Technology Development Plan
-
-    1. What kind of robot are you going to build?
-
-    2. What technology will you use?
+    Reference: 'From Digital Transformation to Smart Transformation' by Lee Min-hwa (Author), Joo Kang-jin (Author)
+                `<https://www.yes24.com/Product/Goods/74041990/>`

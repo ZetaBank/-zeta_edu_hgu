@@ -5,7 +5,7 @@ Team Quiz Presentation
     
     <div style="background: #C3F8FF" class="admonition note custom">
         <p style="background: light-blue" class="admonition-title">
-            Team Quiz Presentation: ROS
+            Team Quiz Presentation: Robot
         </p>
         <div class="line-block">
             <div class="line">This is a team quiz presentation where each team announces their answers.</div>
@@ -19,6 +19,4 @@ Team Quiz Presentation
 
 .. raw:: html
 
-1. Let's present ROS quiz by team.
-
-2. You will now be assigned to a new team.
+1. Let's present Robot quiz by team.

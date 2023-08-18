@@ -74,25 +74,24 @@ In Education Provided by ZetaBank:
 
 
 .. toctree:: 
-    :caption: AI Training and Cooperation Programs
+    :caption: ROS C++ Programming and AI
     :hidden:
     
     courses/course_2/1.team_quiz_presentation/0.index
-    courses/course_2/2.ai_1/0.index
-    courses/course_2/3.problem_solve/0.index
-    courses/course_2/4.ai_rec_1/0.index
-    courses/course_2/5.ai_pos_3/0.index
-    courses/course_2/6.ai_obj_2/0.index
-    courses/course_2/7.team_mission/0.index
-    courses/course_2/8.ai_dep_4/0.index
-    courses/course_2/9.ai_2/0.index
-    courses/course_2/10.team_quiz/0.index
-    courses/course_2/11.problem_solve_presentation/0.index
-    courses/course_2/12.ai_tao_7/0.index
-    courses/course_2/13.team_diy/0.index
+    courses/course_2/2.ros_1/0.index
+    courses/course_2/3.ros_2/0.index
+    courses/course_2/4.ros_3/0.index
+    courses/course_2/5.ros_4/0.index
+    courses/course_2/6.ros_5/0.index
+    courses/course_2/7.team_coop/0.index
+    courses/course_2/8.ai_1/0.index
+    courses/course_2/9.ai_rec_1/0.index
+    courses/course_2/10.problem_solve/0.index
+    courses/course_2/11.ai_tao_2/0.index
+    courses/course_2/12.team_diy/0.index
    
 .. toctree:: 
-    :caption: Robot Autonomous Driving Application
+    :caption: PyQT and Robotic Deep AI
     :hidden:
    
     courses/course_3/1.team_quiz_presentation/0.index
@@ -110,7 +109,7 @@ In Education Provided by ZetaBank:
     courses/course_3/13.problem_solve_presentation/0.index
 
 .. toctree::
-    :caption: Robotic Arm Application
+    :caption: Autonomous Driving and Robot Arm
     :hidden:
     
     courses/course_4/1.team_quiz_presentation/0.index
