@@ -1,0 +1,10 @@
+Follow Along!
+=============
+
+
+Here are the contents for this section:
+
+.. toctree:: 
+
+    3.server
+    4.client
