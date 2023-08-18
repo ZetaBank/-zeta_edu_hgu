@@ -5,7 +5,7 @@ Team DIY Project Presentation
     
     <div style="background: #C3F8FF" class="admonition note custom">
         <p style="background: light-blue" class="admonition-title">
-            Robot Arm Dance Project: Presentation
+            Team DIY Project: Presentation
         </p>
         <div class="line-block">
             <div class="line">This is a project where teams work together to accomplish missions and challenges.</div>
@@ -18,3 +18,14 @@ Team DIY Project Presentation
     </div>
 
 .. raw:: html
+
+A Dance Competition is Held!
+----------------
+- A dance competition was held to decorate the end of the lecture.
+- It is an opportunity to fully demonstrate the coding skills accumulated while attending lectures.
+- Now, Let's make your robot dance!
+|
+Rules
+----------------
+- Set the order for each group.
+- When it is your group's turn, play prepared code and music.
