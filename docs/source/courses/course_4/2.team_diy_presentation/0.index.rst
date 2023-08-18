@@ -5,7 +5,7 @@ Team Quiz Presentation
     
     <div style="background: #C3F8FF" class="admonition note custom">
         <p style="background: light-blue" class="admonition-title">
-            Team Quiz Presentation: Robot Arm
+            Team Quiz Presentation: Autonomous Driving
         </p>
         <div class="line-block">
             <div class="line">This is a team quiz presentation where each team announces their answers.</div>
@@ -18,3 +18,7 @@ Team Quiz Presentation
     </div>
 
 .. raw:: html
+
+1. Let's present the autonomous driving quiz by team.
+
+2. After presentation, You will now be assigned to a new team.
