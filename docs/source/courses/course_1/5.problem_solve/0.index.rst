@@ -19,12 +19,7 @@ Problem Solving Project
 
 .. raw:: html
 
-1. Topic:
+1. Topic: Does hardware matter in the future?
 
-    AI robot service direction for social issues
-
-    1. Low Birth Rate
-
-    2. Aging Population
-
-    3. Environmental Pollution
+    Reference: 'The Hardware Startup: Building Your Product, Business, and Brand' by Renee DiResta (Author), Brady Forrest (Author), Ryan Vinyard (Author)
+                `<https://www.yes24.com/Product/Goods/32517549/>`

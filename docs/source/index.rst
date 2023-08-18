@@ -59,16 +59,17 @@ In Education Provided by ZetaBank:
     courses/course_1/1.hustar_purpose/0.index
     courses/course_1/2.ai_purpose/0.index
     courses/course_1/3.future_human/0.index
-    courses/course_1/4.problem_solve/0.index
-    courses/course_1/5.robot_component/0.index
-    courses/course_1/6.assembly/0.index
-    courses/course_1/7.team_quiz/0.index
-    courses/course_1/8.team_quiz_presentation/0.index
-    courses/course_1/9.ros_1/0.index
-    courses/course_1/10.problem_solve_presentation/0.index
-    courses/course_1/11.control_robot_1/0.index
-    courses/course_1/12.ros_2/0.index
-    courses/course_1/13.team_quiz/0.index
+    courses/course_1/4.lecture_plan/0.index
+    courses/course_1/5.problem_solve/0.index
+    courses/course_1/6.robot_component/0.index
+    courses/course_1/7.assembly/0.index
+    courses/course_1/8.control_robot/0.index
+    courses/course_1/9.ros_intro/0.index
+    courses/course_1/10.control_robot_1/0.index
+    courses/course_1/11.control_robot_2/0.index
+    courses/course_1/12.control_robot_3/0.index
+    courses/course_1/13.control_robot_4/0.index
+    courses/course_1/14.team_quiz/0.index
 
 
 
