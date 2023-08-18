@@ -1,4 +1,4 @@
-Team Quiz Presentation
+Team DIY Presentation
 ================
 
 .. raw:: html

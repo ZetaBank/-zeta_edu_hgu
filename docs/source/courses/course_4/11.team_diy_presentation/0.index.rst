@@ -1,4 +1,4 @@
-Robot Arm Dance Project - Presentation
+Team DIY Project Presentation
 ================
 
 .. raw:: html
