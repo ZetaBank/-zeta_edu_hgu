@@ -94,19 +94,17 @@ In Education Provided by ZetaBank:
     :caption: PyQT and Robotic Deep AI
     :hidden:
    
-    courses/course_3/1.team_quiz_presentation/0.index
-    courses/course_3/2.depth/0.index
-    courses/course_3/3.problem_solve/0.index
-    courses/course_3/4.4.depth_ai_1/0.index
-    courses/course_3/5.depth_ai_2/0.index
-    courses/course_3/6.ai_back_5/0.index
-    courses/course_3/7.autonomous_drive_misson_1/0.index
-    courses/course_3/8.autonomous_drive_1/0.index
-    courses/course_3/9.autonomous_application_1/0.index
-    courses/course_3/10.team_quiz/0.index
-    courses/course_3/11.autonomous_drive_2/0.index
-    courses/course_3/12.autonomous_application_2/0.index
-    courses/course_3/13.problem_solve_presentation/0.index
+    courses/course_3/1.ai_2/0.index
+    courses/course_3/2.ai_pose_3/0.index
+    courses/course_3/3.pyqt_1/0.index
+    courses/course_3/4.pyqt_2/0.index
+    courses/course_3/5.team_diy/0.index
+    courses/course_3/6.team_quiz/0.index
+    courses/course_3/7.team_coop/0.index
+    courses/course_3/8.ai_depth_4/0.index
+    courses/course_3/9.ai_obj_2/0.index
+    courses/course_3/10.problem_solve/0.index
+    courses/course_3/11.depth_1/0.index
 
 .. toctree::
     :caption: Autonomous Driving and Robot Arm

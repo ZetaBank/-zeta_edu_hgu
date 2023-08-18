@@ -1,11 +1,11 @@
-Problem Solving Project Presentation
+Problem Solving Project
 ================
 
 .. raw:: html
     
     <div style="background: #C3F8FF" class="admonition note custom">
         <p style="background: light-blue" class="admonition-title">
-            Problem Solving Project: Presentation
+            Problem Solving Project : Discussion
         </p>
         <div class="line-block">
             <div class="line">This is for each team to thoroughly discuss and present a given topic.</div>
@@ -19,10 +19,7 @@ Problem Solving Project Presentation
 
 .. raw:: html
 
-3. Topic:
+3. Topic: What is the world disruptive companies are creating?
 
-    Technical and Business Analysis
-
-    1. Autonomous Driving Car
-
-    2. Autonomous Driving Robot
+    Reference: 'The Future of Megatech 2025: The Wealth Opportunity Created by Disruptive Enterprises' by Yasumasa Yamamoto (Author), Hyunho Shin (Translator)
+                `<https://www.yes24.com/Product/Goods/101402054/>`

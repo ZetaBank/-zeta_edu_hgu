@@ -5,7 +5,7 @@ Collaboration Program
     
     <div style="background: #C3F8FF" class="admonition note custom">
         <p style="background: light-blue" class="admonition-title">
-            Collaboration Program: Machine Running
+            Collaboration Program: 
         </p>
         <div class="line-block">
             <div class="line">This is a project where teams work together to accomplish missions and challenges.</div>
@@ -19,4 +19,4 @@ Collaboration Program
 
 .. raw:: html
 
-1. Numbers, English word running
+1. Draw, Mission, Siege
