@@ -1,59 +1,72 @@
 ====================
-Before Starting
+Theory
 ====================
 
 .. raw:: html
     
     <div style="background: #C3F8FF" class="admonition note custom">
         <p style="background: light-blue" class="admonition-title">
-            Follow along: Before Starting
+            Follow along: Kinematics / Inverse Kinematics Theory
         </p>
         <div class="line-block">
-            <div class="line">Here are the things to keep in mind before starting the robot arm training.</div>
+            <div class="line">This is the theory before the robot arm practice.</div>
         </div>
         <ul>
-            <li>Make sure the robotic arm container is properly shutting down.</li>
-            <li>If the robot arm does not move, check whether the robot arm container is working.</li>
-            <li>When you want to control the robot arm again with the controller, don't forget to turn on the robot arm container.</li>
-
-        </ul>
-        <div class="line">(The Jetson Board used for these examples are => Jetson Nano)</div>
-        
+            <li>Let's learn about kinematics / inverse kinematics applied to robot arms.</li>
+            <li>This is applied to various fields other than the field of robot arms.</li>
+        </ul>     
     </div>
 
 
 .. raw:: html
 
-    <hr>
+1. Introduction
 
--   Open Browser and connect to "10.42.0.1:5000".
+- The field of robotics has made remarkable strides in recent decades, and at the heart of its progress lies the precision and dexterity of robotic arms. These versatile mechanisms are vital components in industries as diverse as manufacturing, healthcare, and space exploration. The principles of kinematics and inverse kinematics are fundamental to understanding and controlling the movement of these robotic arms. This report delves into the intricate concepts of kinematics and inverse kinematics, exploring their theoretical underpinnings and real-world applications.
 
+2. Kinematics of Robot Arms
 
-.. thumbnail:: /_images/ai_training/arm_disable_1.png
+    2.1 Understanding Kinematics
+    
+    - At its core, kinematics is the study of motion, but in the realm of robotics, it's the study of motion without considering the forces that cause it. This abstraction allows us to examine the movement of robotic arms, specifically how joint angles and link lengths translate into the position and orientation of the end-effector.
 
+    2.2 Forward Kinematics
 
--   Currently, the robot arm can only be moved with a controller.
+    - Forward kinematics is a pivotal concept that enables us to envision the trajectory of a robotic arm by determining the position and orientation of its end-effector based on given joint angles. Denavit-Hartenberg (DH) parameters offer a systematic method to model the kinematics of robotic joints and links, simplifying complex systems into manageable elements. Transformation matrices derived from DH parameters allow us to compute the end-effector's position using homogeneous transformations.
 
+3. Forward Kinematics
 
--   We need to shut down the container that controls the robot arm controller in order to control the robot arm with code.
+    3.1 Denavit-Hartenberg Parameters
+    
+    - The Denavit-Hartenberg parameters provide a standardized framework to describe the relationship between adjacent links and joints in a robotic arm. Each joint's four parameters - link length 'a', link twist 'α', joint angle 'θ', and joint offset 'd' - create a transformation matrix that captures the spatial relationship between consecutive links.
 
+    3.2 Homogeneous Transformation Matrices
+     
+    - Homogeneous transformation matrices consolidate translation and rotation into a unified representation. By concatenating these matrices, we can track the robot arm's transformation from its base to the end-effector, ensuring accurate calculation of its position and orientation in a reference coordinate system.
 
--   Click the "zetabankhub/edu:melodic-dofbot-" in green text.
+4. Inverse Kinematics
 
+    4.1 The Significance of Inverse Kinematics
+    
+    - Inverse kinematics plays a pivotal role in robotic control, enabling us to find the joint angles necessary to achieve a desired end-effector pose. This is crucial for planning intricate robotic motions and achieving specific orientations in the workspace.
 
-.. thumbnail:: /_images/ai_training/arm_disable_2.png
+    4.2 Numerical Approaches
+    
+    - Solving inverse kinematics analytically is a challenge due to the nonlinear nature of the equations involved. Numerical methods, like the Jacobian-based approaches, come to the rescue. The Jacobian matrix relates joint velocities to the end-effector's velocity, serving as a critical tool in iterative methods such as the Newton-Raphson technique. These methods iteratively refine joint angles, gradually converging toward the desired pose.
 
+    4.3 Handling Singularities
+    
+    - Singularities represent configurations where the robot arm loses degrees of freedom, leading to ambiguous solutions. Techniques like the Damped Least Squares (DLS) method dampen the solution to prevent erratic joint movements. Moreover, advanced strategies aim to avoid singular configurations altogether, ensuring the stability of the robotic system.
 
--   If the container is in RUNNING state, press stop and wait for a while.
+5. Practical Applications
 
+    5.1 Manufacturing Automation
+    
+    - In manufacturing, robots with precise kinematic control perform tasks such as welding, painting, and intricate assembly operations. Accurate kinematic models ensure consistent product quality and streamlined production processes.
 
--   The "zetabankhub/edu:melodic-dofbot-" text turns white when the container is shutting down.
+    5.2 Medical Robotics
+    
+    - The medical field benefits immensely from robotic arms with intricate kinematics, assisting in minimally invasive surgeries. Inverse kinematics guides surgical instruments through constrained spaces, minimizing patient trauma and improving procedural outcomes.
 
-
-.. thumbnail:: /_images/ai_training/arm_disable_3.png
-
-
--   Now, let's use jupyterhub to control the robot arm using code.
-
-
--   Conversely, if you want to control the robot wave using the controller, you can start the "zetabankhub/edu:melodic-dofbot-" container.
+    5.3 Space Exploration
+    - Robotic arms serve as indispensable tools in space missions, carrying out tasks too risky or complex for humans. Kinematic algorithms enable remote control of arms for satellite deployment, sample collection, and maintenance in challenging extraterrestrial environments.

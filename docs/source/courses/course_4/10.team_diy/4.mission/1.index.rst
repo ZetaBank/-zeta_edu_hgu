@@ -3,8 +3,8 @@ Mission Project
 
 .. raw:: html
 
-    <div style="background: #ffe5b4" class="admonition note custom">
-        <p style="background: #ffbf00" class="admonition-title">
+    <div style="background: #C3F8FF" class="admonition note custom">
+        <p style="background: light-blue" class="admonition-title">
             Project Name: Make Your Robot Dance to the Music!
         </p>
         <div class="line-block">
