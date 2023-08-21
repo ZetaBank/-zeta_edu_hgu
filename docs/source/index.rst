@@ -55,7 +55,6 @@ In Education Provided by ZetaBank:
     :caption: Robot Components and ROS Basic Training
     :hidden:
 
-    0.intro/introduction
     courses/course_1/1.hustar_purpose/0.index
     courses/course_1/2.ai_purpose/0.index
     courses/course_1/3.future_human/0.index
