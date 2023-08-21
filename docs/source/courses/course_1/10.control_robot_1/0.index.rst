@@ -6,7 +6,6 @@ Here are the contents for this section:
 
 .. toctree:: 
 
-    2.introduction
     3.python/1.index
     5.mission
     6.discussion
