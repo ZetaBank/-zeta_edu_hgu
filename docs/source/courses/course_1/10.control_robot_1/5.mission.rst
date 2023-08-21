@@ -10,13 +10,14 @@ Mission
         <div class="line-block">
             <div class="line"><strong>-</strong> This mission is an <strong>individual project</strong></div>
             <div class="line"><strong>-</strong> Let's build a factorial function in Python based on what we've learned.</div>
-            <div class="line"><strong>-</strong> Fill in the blanks below. </div>
+            <div class="line"><strong>-</strong> Fill in the '□' blanks below. </div>
         </div>
     </div>
 
 .. raw:: html
 
 .. code-block:: python
+
     def factorial(n):
         if n == 0 or n == 1:
             return □
