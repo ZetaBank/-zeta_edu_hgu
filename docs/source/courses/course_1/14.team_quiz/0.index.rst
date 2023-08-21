@@ -21,5 +21,16 @@ Team Quiz (Robot)
 
 Topic: 
     1. Components of the robot.
-    
+        Quiz:
+            1. What type of sensor is commonly used to detect the presence of nearby objects by emitting and receiving ultrasonic waves?
+            2. Which type of sensor is used to capture images of an environment and is commonly found in robots and autonomous vehicles?
+            3. What is the significance of a "reducer" in a robot's joint mechanism?
+            4. What is the purpose of an "inertial measurement unit" (IMU) in a robot?
+            5. What is the purpose of the "rospy" library in ROS programming with Python?
+            6. Describe the purpose of the "roslaunch" command-line tool in ROS. How does it simplify the process of launching and managing multiple ROS nodes, and what are some practical scenarios where "roslaunch" is particularly useful?
+            7. In ROS, what is the role of a "node" in a robotic application?
+            8. In ROS, what is the purpose of a "bag" file?
+            9. In ROS programming using Python, what is the purpose of the "rospy.spin()" method? How does it relate to the event-driven nature of ROS nodes, and when would you use this method in your code?
+            10. When implementing a PID controller in Python for a robot's position control, what does the "D" in "PID" stand for?
+    |
     2. Robot assembly status by team.

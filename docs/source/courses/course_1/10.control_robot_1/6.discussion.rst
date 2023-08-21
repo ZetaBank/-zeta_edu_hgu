@@ -10,12 +10,12 @@ Python is an easy, simple, yet feature-rich, interpreted language.
             Group Discussion Points
         </p>
         <ul>
-            <li> Do you have a program you would like to create using Python?</li>
+            <li>Why should we learn Python?</li>
             <li>
-                What kind of program should We make?
+                Why has Python become a popular programming language?
                 <ul>
-                    <li>For example, you might be able to make your work easier by creating something like Robotic Process Automation (RPA).</li>
-                    <li>Or, wouldn't it be possible to create a cozy smart home using IoT technology?</li>
+                    <li>Python supports powerful modules such as numpy, matplotlib, and pandas that are specialized for machine learning. Let's discuss what their characteristics and strengths are.</li>
+                    <li>If there are other useful modules, let's find out together.</li>
                 </ul>
             </li>
         </ul>

@@ -21,5 +21,15 @@ Team Quiz (AI)
 
 Topic: 
     1. AI essential questions
+        1. Define the term "knowledge representation" in the context of AI. Explain the differences between symbolic and subsymbolic approaches to knowledge representation, and provide examples of each.
+        2. Discuss the concept of "search algorithms" in AI. Explain how depth-first search and breadth-first search work, and compare their advantages and disadvantages in solving different types of problems.
+        3. Describe the working principle of a "neural network." What are the components of a neural network architecture, and how are weights updated during the training process using backpropagation?
+        4. Explain the "bias-variance tradeoff" in machine learning. How does it affect a model's ability to generalize to new data, and what strategies can be employed to strike the right balance between bias and variance?
+        5. Discuss the concept of "feature engineering" in machine learning. Provide examples of feature transformations and creation that can enhance a model's performance, and explain the potential challenges in feature selection.
+        6. Describe the "SVM" (Support Vector Machine) algorithm in machine learning. How does SVM work for both classification and regression tasks? What is the role of kernels in SVM, and how do they enable the algorithm to handle non-linear data?
+        7. Explain the concept of "SLAM" (Simultaneous Localization and Mapping) in robotics. How do AI and machine learning techniques contribute to solving the SLAM problem, and what are the key challenges in accurate simultaneous localization and mapping?
+        8. Describe "reinforcement learning" algorithms in the context of robotic control. Discuss how Q-learning and policy gradient methods work, and explain the trade-offs between model-free and model-based reinforcement learning approaches.
+        9. Discuss the significance of "object detection" in robotic computer vision. How do deep learning techniques, such as convolutional neural networks (CNNs), improve the accuracy and speed of object detection tasks? Provide examples of object detection architectures.
+        10. Elaborate on "motion planning" algorithms in robotics. How do AI algorithms enable robots to generate collision-free paths and trajectories in complex environments? Explain the A* algorithm and its variations in the context of motion planning.
 
     2. AI choice questions
