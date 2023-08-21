@@ -11,10 +11,9 @@ Functions and Classes
             <div class="line">The program launching process along with parameter settings are all simplified and set up on the Jupyter Notebook Environment.</div>
         </div>
         <ul>
-            <li>Open the 01_01_ros_topic_publisher.ipynb Jupyter Notebook</li>
-            <li>Import the necessary python libraries and modules</li>
+            <li>Create a new *.ipynb file Jupyter Notebook</li>
+            <li>Fill in the content below in the newly created file</li>
             <li>Follow and Execute the example codes</li>
-
         </ul>
         <div class="line">(The Jetson Board used for these examples are => Jetson Nano)</div>
         
