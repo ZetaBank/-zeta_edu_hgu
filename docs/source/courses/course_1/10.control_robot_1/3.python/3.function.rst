@@ -1,0 +1,45 @@
+Function and Class
+======================
+
+Function
+----------------------
+.. code-block:: python
+    # Defining a Function
+    def greet(name):
+        return f"Hello, {name}!"
+
+    # Calling the Function
+    message = greet("Alice")
+    print(message)
+
+    # Defining a Function with Default Parameter
+    def add_numbers(a, b=0):
+        return a + b
+
+    # Calling the Function with Different Arguments
+    result1 = add_numbers(5, 3)
+    result2 = add_numbers(7)
+    print("Result 1:", result1)
+    print("Result 2:", result2)
+
+Class
+----------------------
+.. code-block:: python
+    # Defining a Class
+    class Rectangle:
+        def __init__(self, width, height):
+            self.width = width
+            self.height = height
+
+        def calculate_area(self):
+            return self.width * self.height
+
+    # Creating Objects of the Class
+    rect1 = Rectangle(10, 5)
+    rect2 = Rectangle(8, 6)
+
+    # Calling Methods on the Objects
+    area1 = rect1.calculate_area()
+    area2 = rect2.calculate_area()
+    print("Area 1:", area1)
+    print("Area 2:", area2)

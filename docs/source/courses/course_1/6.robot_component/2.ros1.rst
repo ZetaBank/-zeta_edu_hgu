@@ -1,4 +1,4 @@
-About ROS
+ROS 1 (Jetson Nano)
 ======================
 
 
