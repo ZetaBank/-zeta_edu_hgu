@@ -18,3 +18,10 @@ Control AI Robot
     </div>
 
 .. raw:: html
+
+
+How to Control Robot Using Joystick
+----------------
+.. thumbnail:: /_images/courses/course_1/joystick/joystick1.png
+
+.. thumbnail:: /_images/courses/course_1/joystick/joystick2.png
