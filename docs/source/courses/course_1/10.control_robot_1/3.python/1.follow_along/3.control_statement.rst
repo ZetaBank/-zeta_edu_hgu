@@ -97,6 +97,7 @@ Control Statements
         for j in range(2):
             print(i, j)
 
+
 .. code-block:: python
 
     # Output:
@@ -133,7 +134,7 @@ Control Statements
     # 5
     # 7
     # 9
-    
+
     # Nested Loop Example:
     # 0 0
     # 0 1

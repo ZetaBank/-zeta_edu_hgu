@@ -3,12 +3,12 @@ Mission
 
 .. raw:: html
 
-    <div style="background: #ffe5b4" class="admonition note custom">
-        <p style="background: #ffbf00" class="admonition-title">
+    <div style="background: #C3F8FF" class="admonition note custom">
+        <p style="background: light-blue" class="admonition-title">
             Project Name: Creating a Factorial Function Using Python
         </p>
         <div class="line-block">
-            <div class="line"><strong>-</strong> This mission is an <strong>individual project</strong></div>
+            <div class="line"><strong>-</strong> This mission is an <strong>team project</strong></div>
             <div class="line"><strong>-</strong> Let's build a factorial function in Python based on what we've learned.</div>
             <div class="line"><strong>-</strong> Fill in the '□' blanks below. </div>
         </div>
