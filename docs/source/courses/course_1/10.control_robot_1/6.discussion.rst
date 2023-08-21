@@ -1,7 +1,7 @@
 Discussion
 =============
 
-The robot control system allows us to communicate with the hardware of our robot.  
+Python is an easy, simple, yet feature-rich, interpreted language.
 
 .. raw:: html
 
@@ -10,12 +10,12 @@ The robot control system allows us to communicate with the hardware of our robot
             Group Discussion Points
         </p>
         <ul>
-            <li> If you could add another sensor to the robot what would that be?</li>
+            <li> Do you have a program you would like to create using Python?</li>
             <li>
-                Why do you think we need the said sensor and where would it be used?
+                What kind of program should We make?
                 <ul>
-                    <li>For example, we added lidar sensors to have a functional navigational system. The lidar sensors provide 360 distnace sensor, providing a local 2D mapping for the robot.</li>
-                    <li>For lidar sensor, we would add a Topic that would recieve the node connected to the output of the sensor and Publishes values to the Topic. We may use this information by Subscribing to the said Topic.</li>
+                    <li>For example, you might be able to make your work easier by creating something like Robotic Process Automation (RPA).</li>
+                    <li>Or, wouldn't it be possible to create a cozy smart home using IoT technology?</li>
                 </ul>
             </li>
         </ul>
