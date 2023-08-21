@@ -10,4 +10,3 @@ Here are the contents for this section:
     2.middle_layer
     3.top_layer
     4.realsense
-    5.isaac_sight
