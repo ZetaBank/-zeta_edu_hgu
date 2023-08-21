@@ -3,7 +3,9 @@ Function and Class
 
 Function
 ----------------------
+
 .. code-block:: python
+
     # Defining a Function
     def greet(name):
         return f"Hello, {name}!"
@@ -24,7 +26,9 @@ Function
 
 Class
 ----------------------
+
 .. code-block:: python
+    
     # Defining a Class
     class Rectangle:
         def __init__(self, width, height):

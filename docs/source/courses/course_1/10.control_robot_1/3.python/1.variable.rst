@@ -2,6 +2,7 @@ Variables
 ======================
 
 .. code-block:: python
+    
     # Integer Variable
     age = 25
 
