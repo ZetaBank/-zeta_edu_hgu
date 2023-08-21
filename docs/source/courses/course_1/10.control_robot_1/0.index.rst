@@ -7,7 +7,8 @@ Here are the contents for this section:
 .. toctree:: 
 
     2.introduction
-    3.python/0.index
+    3.python/1.follow_along/1.index
+    3.python/2.explanation/1.index
     5.mission
     6.discussion
     7.qa
