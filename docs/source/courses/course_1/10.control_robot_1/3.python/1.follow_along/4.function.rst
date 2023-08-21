@@ -1,4 +1,4 @@
-Function and Class
+Functions and Classes
 ======================
 
 Function
