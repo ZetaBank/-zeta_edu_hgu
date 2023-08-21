@@ -6,6 +6,6 @@ Here are the contents for this section:
 
 .. toctree:: 
 
-    1.variable
-    2.control_statement
-    3.function
+    2.variable
+    3.control_statement
+    4.function
