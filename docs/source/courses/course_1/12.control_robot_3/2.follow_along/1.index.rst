@@ -8,3 +8,5 @@ Here are the Publisher and Subscriber Method examples for ROS Topic:
 .. toctree:: 
 
     2.command
+    3.server
+    4.client
