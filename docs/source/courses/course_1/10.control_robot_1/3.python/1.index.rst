@@ -1,12 +1,10 @@
 Python Basics
 ======================================
 
-For this section we will look into what Robot Operating System (ROS) Topic is and how to utilize them.
-Here are the contents:
 
+Here are the contents for this section:
 
 .. toctree:: 
-    :titlesonly:
 
     1.follow_along/1.index
     2.explanation/1.index
