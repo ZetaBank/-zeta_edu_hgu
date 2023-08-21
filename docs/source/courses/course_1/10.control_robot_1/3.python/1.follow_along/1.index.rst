@@ -5,8 +5,7 @@ Follow Along!
 Here are the contents for this section:
 
 .. toctree:: 
-    :titlesonly:
-    
+
     1.variable
     2.control_statement
     3.function

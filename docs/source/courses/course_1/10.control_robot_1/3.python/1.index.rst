@@ -1,4 +1,4 @@
-ROS Topic Examples
+Python Basics
 ======================================
 
 For this section we will look into what Robot Operating System (ROS) Topic is and how to utilize them.
