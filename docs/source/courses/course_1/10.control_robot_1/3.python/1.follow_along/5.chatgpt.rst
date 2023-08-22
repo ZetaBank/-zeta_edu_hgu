@@ -97,6 +97,8 @@ Python Coding with ChatGPT
     print(f"{a} * {b} = {multiply(a, b)}")
     print(f"{a} / {b} = {divide(a, b)}")
 
+|
+
 9. Now, let's write the code in earnest with the help of ChatGPT.
 
     Examples:
