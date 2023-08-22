@@ -103,14 +103,14 @@ Python Coding with ChatGPT
 
     Examples:
 
-    1. Chatbot Basics: Write a Python code to create a simple chatbot that greets the user and responds to a few predefined questions.
+        1. Chatbot Basics: Write a Python code to create a simple chatbot that greets the user and responds to a few predefined questions.
 
-    2. Number Guessing Game: Develop a program using Python where the computer selects a random number, and the user has to guess it. Provide hints like "higher" or "lower" based on user input.
+        2. Number Guessing Game: Develop a program using Python where the computer selects a random number, and the user has to guess it. Provide hints like "higher" or "lower" based on user input.
 
-    3. Image Recognition: Use a Python library like OpenCV to build a basic image recognition program that can distinguish between images containing cats and dogs.
+        3. Image Recognition: Use a Python library like OpenCV to build a basic image recognition program that can distinguish between images containing cats and dogs.
 
-    4. Calculator with AI: Create a calculator in Python that performs basic arithmetic operations and answers questions like "What's the square root of 25?" using appropriate math functions.
+        4. Calculator with AI: Create a calculator in Python that performs basic arithmetic operations and answers questions like "What's the square root of 25?" using appropriate math functions.
 
-    5. Language Translation: Write a Python script that contains a dictionary of English words and their translations. Convert a user-entered sentence from English to another language using this dictionary.
+        5. Language Translation: Write a Python script that contains a dictionary of English words and their translations. Convert a user-entered sentence from English to another language using this dictionary.
 
-    6. Sentiment Analysis: Develop a simple sentiment analysis program in Python that takes a user's input (text) and determines sentiment as positive, negative, or neutral based on predefined keywords.
+        6. Sentiment Analysis: Develop a simple sentiment analysis program in Python that takes a user's input (text) and determines sentiment as positive, negative, or neutral based on predefined keywords.
