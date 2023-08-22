@@ -15,9 +15,3 @@
 .rst-content .custom .admonition-title:before {
     content: none; /* Empty content to remove the icon */
 }
-
-/* Style for the custom divider */
-.custom-divider {
-    border-top: 1px solid #ddd; /* Adjust color and thickness as needed */
-    margin: 10px 0; /* Add spacing above and below the divider */
-}
