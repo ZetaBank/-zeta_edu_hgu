@@ -58,7 +58,7 @@ In Education Provided by ZetaBank:
     courses/course_1/1.hustar_purpose/0.index
     courses/course_1/2.ai_purpose/0.index
     courses/course_1/3.future_human/0.index
-    courses/course_1/4.lecture_plan/0.
+    courses/course_1/4.lecture_plan/0.index
     
 .. only:: not html
 
