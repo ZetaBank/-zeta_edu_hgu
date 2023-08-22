@@ -18,12 +18,9 @@
 
 /* Add a custom separator line */
 .custom-separator {
-    text-align: center;
-    margin: 20px 0;
-}
-
-.custom-separator hr {
-    border: none;
-    border-top: 1px solid #ddd;
-    width: 50%; /* Adjust the width of the separator line */
+    border-top: 1px solid #ddd; /* Adjust color and thickness as needed */
+    margin: 10px 0; /* Add some spacing above and below the separator */
+    padding: 5px 0; /* Add spacing inside the separator */
+    text-align: center; /* Center the text */
+    font-weight: bold; /* Apply bold font to the text */
 }
