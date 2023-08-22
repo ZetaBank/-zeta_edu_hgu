@@ -60,10 +60,9 @@ In Education Provided by ZetaBank:
     courses/course_1/3.future_human/0.index
     courses/course_1/4.lecture_plan/0.index
 
-    .. admonition:: Section Separator
-        :class: custom-separator
+   .. raw:: html
 
-        This is a separator between sections.
+      <div class="custom-divider"></div>
 
     courses/course_1/5.problem_solve/0.index
     courses/course_1/6.robot_component/0.index
