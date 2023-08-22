@@ -60,9 +60,11 @@ In Education Provided by ZetaBank:
     courses/course_1/3.future_human/0.index
     courses/course_1/4.lecture_plan/0.index
     
-.. only:: not html
+.. raw:: html
 
-   ---------------------------------
+   <div class="custom-separator">
+       <hr>
+   </div>
 
 .. toctree:: 
     :hidden:
