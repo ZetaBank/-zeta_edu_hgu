@@ -52,7 +52,7 @@ In Education Provided by ZetaBank:
    :width: 250
 
 .. toctree:: 
-    :caption: Robot Components & ROS Basic Training
+    :caption: Robot Components & ROS Training
     :hidden:
 
     courses/course_1/1.hustar_purpose/0.index
