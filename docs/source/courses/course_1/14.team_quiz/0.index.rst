@@ -34,6 +34,7 @@ Topic:
     
     2. Robot assembly status by team.
         Complete the assembly of the robot within the time limit of 2 hours and draw a circle using the joystick!
+        
         Tips:
             1. Check if each function of the robot is working properly.
             2. Check that the motor is working properly, the camera and lidar are working well, and there are no abnormalities in the sensors.
