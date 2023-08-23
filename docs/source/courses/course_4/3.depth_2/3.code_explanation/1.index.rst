@@ -1,7 +1,7 @@
 Code Explanation
 ==================
 
-Overall Explanation
+Structure Explanation
 --------------------
 
 .. code-block:: python
@@ -50,8 +50,6 @@ Overall Explanation
 
 - The pipeline is stopped to release camera resources, and a message "Frames Captured" is printed to indicate that frames have been successfully captured.
 
-- The next section of the code focuses on processing and visualization of the RGB Color Data. Would you like me to explain that part?
-
 .. code-block:: python
 
     # Display color frame:
@@ -85,8 +83,6 @@ Overall Explanation
     plt.imshow(images)
 
 - In this section, the color and depth frames are aligned using rs.align. The aligned depth frame is obtained using frameset.get_depth_frame(). The aligned depth frame is then colorized, and the result is stored in the colorized_depth variable. Both the original color frame and the colorized aligned depth frame are horizontally stacked and displayed together using plt.imshow(images).
-
-- The next section of the code focuses on Object Detection. Would you like me to explain that part as well?
 
 .. code-block:: python
 
@@ -180,5 +176,3 @@ Overall Explanation
 - In this final part, the depth data within the bounding box region is extracted from the aligned depth frame. The depth values are converted to meters using the depth scale. The mean depth value within the region is calculated to estimate the distance of the detected object from the camera.
 
 - A message is printed indicating the class of the detected object and its distance from the camera.
-
-- This completes the explanation of the entire provided code.
