@@ -4,65 +4,113 @@ Code Explanation
 Overall Explanation
 --------------------
 
--   With our follow along examples, we were able to move our robot arm with precision as well. 
+-   Check the contents of the 01_04_Depth_Comparison.py file as follows.
 
--   The instructional codes have been compile into a jupyter notebook for the ease of use. 
+.. code-block:: python
 
-Robot arm Movements
+    import pyrealsense2 as rs
+    import numpy as np
+    import cv2
+
+    # Initialize the RealSense pipeline and configure streams
+    pipeline = rs.pipeline()
+    config = rs.config()
+    config.enable_stream(rs.stream.depth, 640, 480, rs.format.z16, 30)
+    config.enable_stream(rs.stream.color, 640, 480, rs.format.bgr8, 30)
+    pipeline.start(config)
+
+    while True:
+        # Wait for a set of frames
+        frames = pipeline.wait_for_frames()
+        depth_frame = frames.get_depth_frame()
+        color_frame = frames.get_color_frame()
+
+        # Convert frames to OpenCV format
+        depth_image = np.asanyarray(depth_frame.get_data())
+        color_image = np.asanyarray(color_frame.get_data())
+
+        # Convert depth image to a colormap
+        depth_colormap = cv2.applyColorMap(cv2.convertScaleAbs(depth_image, alpha=0.03), cv2.COLORMAP_JET)
+
+        # Display the depth and color images together
+        combined_image = np.hstack((color_image, depth_colormap))
+        cv2.imshow("Color and Depth", combined_image)
+
+        if cv2.waitKey(1) & 0xFF == ord('q'):
+            break
+
+    pipeline.stop()
+    cv2.destroyAllWindows()
+
+
+Structure Explanation
+
 --------------------
 
--   The instructions given to the robot arm are within Python 2 environment. We use ``Arm_Lib`` library which contains all the necessary modules that we use to operate our robot arm. 
+.. code-block:: python
 
--   ``Arm_Lib`` is a library provided by the Yahboom Robotics where our robot arm was made.
+    import pyrealsense2 as rs
+    import numpy as np
+    import cv2
 
--   In order to instruct the robot arm, we must first initialize it as an object.
+- Here, the necessary libraries are imported. pyrealsense2 is the RealSense library, numpy is used for numerical operations, and cv2 is the OpenCV library for computer vision.
 
-    .. code-block:: python
-
-        # Register robot arm as an object.
-        Arm = Arm_Device()
-        time.sleep(.1)
+.. code-block:: python
     
-    As you may have noticed, we after the arm is initialized as an object, we pause our program 
-    for one tenth of a second. We will regularly follow this protocol when we are giving the 
-    robot arm multiple instructions at the same time. We do not want some of the instructions cutting
-    in while other insturctional movements have not finished. 
+    # Initialize the RealSense pipeline and configure streams
+    pipeline = rs.pipeline()
+    config = rs.config()
+    config.enable_stream(rs.stream.depth, 640, 480, rs.format.z16, 30)
+    config.enable_stream(rs.stream.color, 640, 480, rs.format.bgr8, 30)
+    pipeline.start(config)
 
-Basic Movements
---------------------
+- In this section, the RealSense pipeline is initialized. The rs.config() method is used to create a configuration for the pipeline. Two streams are enabled: the depth stream with a resolution of 640x480 pixels, format z16 (16-bit depth values), and a frame rate of 30 frames per second. Similarly, the color stream with the same resolution, format bgr8 (8-bit blue, green, red channels), and a frame rate of 30 frames per second is enabled.
 
--   For basic movements, we use ``Arm_serial_servo_write(servo_id, angle, time)`` function. The function can accept 3 parameters
-    from the user.
+.. code-block:: python
 
-    1. servo_id: The servo_id represents the motors responsible for the robot arm movements. There are total of 6 robots, from the bottom most motor responsbile for rotational movement and to the last motor which is responsible for the pincher
-    2. angle: The angle determines how much the motor should move from its current position. 
-    3. time: The time in which the movement is to be conducted. (in 1/2 mili seconds)
+    while True:
+        # Wait for a set of frames
+        frames = pipeline.wait_for_frames()
+        depth_frame = frames.get_depth_frame()
+        color_frame = frames.get_color_frame()
 
-    .. code-block:: python
+- This is the main loop of the program. It runs indefinitely and continuously captures frames from the camera. The pipeline.wait_for_frames() function blocks until a complete set of frames (depth and color) is available. The depth and color frames are then extracted from the set of frames.
 
-        Arm = Arm_Device()
-        # Move the 6th servo (which is the pincher) to 90 degree angle for 2 second. 
-        Arm.Arm_serial_servo_write(6, 90, 1000)
-        time.sleep(.1)
+.. code-block:: python
+
+    # Convert frames to OpenCV format
+    depth_image = np.asanyarray(depth_frame.get_data())
+    color_image = np.asanyarray(color_frame.get_data())
+
+- Here, the obtained depth and color frames are converted into OpenCV-compatible formats using NumPy arrays. This step allows us to manipulate the frames using OpenCV functions.
+
+.. code-block:: python
     
--   You may also move multiple servo's at the same time using ``Arm_seria_servo_write6(...params)``` function.
-    The function recieves angle information for all the servor and the required time for movement completion. 
+    # Convert depth image to a colormap
+    depth_colormap = cv2.applyColorMap(cv2.convertScaleAbs(depth_image, alpha=0.03), cv2.COLORMAP_JET)
 
-    .. code-block:: python
+- The depth image is transformed into a colormap to visualize depth variations. The cv2.convertScaleAbs function scales the depth values and takes the absolute values. The cv2.applyColorMap function then applies a colormap (in this case, 'JET') to the image.
 
-        # Move all the servo's 90 degrees for 2 second.
-        Arm.Arm_serial_servo_write6(90, 90, 90, 90, 90, 90, 1000)
-
-    You may give the same instructions in a list format using ``Arm_seria_servo_write6_array(array, time)`` function. 
-
-Reading the Current Angle of the Servo
-----------------------------------------
-
--   All the servos at any given moment are rotated to a specific angle. 
-    In order to determine the current angle of the motors, we may run ``Arm_serial_servo_read(servo_id)``` function.
-
-    -   By specifying the desired servo number, we may get the current angle information of the specified servo. 
+.. code-block:: python
     
-    .. code-block:: python
+    # Display the depth and color images together
+    combined_image = np.hstack((color_image, depth_colormap))
+    cv2.imshow("Color and Depth", combined_image)
 
-        servo_angle = Arm.Arm_serial_servo_read(servo_id)
+- The color image and the depth colormap are horizontally stacked together to create a single combined image. This combined image is displayed in a window titled "Color and Depth" using the cv2.imshow function from OpenCV.
+
+.. code-block:: python
+
+    if cv2.waitKey(1) & 0xFF == ord('q'):
+        break
+        
+- The program waits for a key press. If the pressed key is 'q', the loop is exited and the program terminates.
+
+.. code-block:: python
+
+    pipeline.stop()
+    cv2.destroyAllWindows()
+
+- After the loop, the RealSense pipeline is stopped to release the camera resources, and all OpenCV windows are closed using the cv2.destroyAllWindows() function.
+
+- In summary, this code sets up a RealSense camera, captures depth and color frames, converts them for OpenCV processing, applies a colormap to the depth data, and displays the combined result in a window. The loop continues until the user presses the 'q' key.
