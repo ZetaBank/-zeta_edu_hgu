@@ -21,12 +21,13 @@ Team Quiz (AI)
 
 Topic: 
     1. AI essential questions
-        1. Define the term "knowledge representation" in the context of AI. Explain the differences between symbolic and subsymbolic approaches to knowledge representation, and provide examples of each.
-        2. Discuss the concept of "search algorithms" in AI. Explain how depth-first search and breadth-first search work, and compare their advantages and disadvantages in solving different types of problems.
-        3. Describe the working principle of a "neural network." What are the components of a neural network architecture, and how are weights updated during the training process using backpropagation?
-        4. Explain the "bias-variance tradeoff" in machine learning. How does it affect a model's ability to generalize to new data, and what strategies can be employed to strike the right balance between bias and variance?
-        5. Discuss the concept of "feature engineering" in machine learning. Provide examples of feature transformations and creation that can enhance a model's performance, and explain the potential challenges in feature selection.
-        6. Describe the "SVM" (Support Vector Machine) algorithm in machine learning. How does SVM work for both classification and regression tasks? What is the role of kernels in SVM, and how do they enable the algorithm to handle non-linear data?
+        1. Discuss the role of "computer vision" in robotics. How do AI techniques like convolutional neural networks improve object recognition and scene understanding?
+        2. Explain the concept of "neural network control" in robotics. How can neural networks be used to improve the precision and flexibility of robotic movements?
+        3. Discuss the challenges and advancements in "natural language processing" for human-robot interaction. How do robots understand and respond to human language?
+        4. Describe the concept of "perception-driven robotics." How do AI algorithms enhance a robot's ability to interpret and respond to its environment?
+        5. Describe the concept of "explainable AI" in robotics. How can robots provide transparent and understandable explanations for their decisions and actions?
+        6. Discuss the challenges and benefits of "multi-agent reinforcement learning" in coordinating the actions of multiple robots to achieve a common goal.
+
 
     2. AI choice questions
         1. Explain the concept of "SLAM" (Simultaneous Localization and Mapping) in robotics. How do AI and machine learning techniques contribute to solving the SLAM problem, and what are the key challenges in accurate simultaneous localization and mapping?

@@ -22,4 +22,4 @@ Problem Solving Project
 1. Topic: Does hardware matter in the future?
 
     Reference: 'The Hardware Startup: Building Your Product, Business, and Brand' by Renee DiResta (Author), Brady Forrest (Author), Ryan Vinyard (Author)
-                `<https://www.yes24.com/Product/Goods/32517549/>`
+                <https://www.yes24.com/Product/Goods/32517549/>

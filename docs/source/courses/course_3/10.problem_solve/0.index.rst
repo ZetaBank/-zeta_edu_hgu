@@ -22,4 +22,4 @@ Problem Solving Project
 3. Topic: What is the world disruptive companies are creating?
 
     Reference: 'The Future of Megatech 2025: The Wealth Opportunity Created by Disruptive Enterprises' by Yasumasa Yamamoto (Author), Hyunho Shin (Translator)
-                `<https://www.yes24.com/Product/Goods/101402054/>`
+                <https://www.yes24.com/Product/Goods/101402054/>
