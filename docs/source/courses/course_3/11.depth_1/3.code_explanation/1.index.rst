@@ -44,7 +44,6 @@ Overall Explanation
 
 
 Structure Explanation
-
 --------------------
 
 .. code-block:: python
