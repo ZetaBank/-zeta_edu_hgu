@@ -117,10 +117,11 @@ Overall Explanation
     # Preprocess the image for the network:
     blob = cv2.dnn.blobFromImage(crop_img, inScaleFactor, (expected, expected), meanVal, False)
     net.setInput(blob, "data")
-detections = net.forward("detection_out")
-H.. code-block:: pythonere, a pre-trained MobileNet SSD (Single Shot MultiBox Detector) model is loaded using cv2.dnn.readNetFromCaffe. The model is designed for object detection. Parameters like inScaleFactor and meanVal are set to preprocess the image for the neural network. The classNames list holds class labels for the detected objects.
+    detections = net.forward("detection_out")
 
-.. code-block:: pythonThe image is preprocessed using cv2.dnn.blobFromImage to prepare it for input to the network. The processed image is passed to the network, and detections are obtained using net.forward.
+- Here, a pre-trained MobileNet SSD (Single Shot MultiBox Detector) model is loaded using cv2.dnn.readNetFromCaffe. The model is designed for object detection. Parameters like inScaleFactor and meanVal are set to preprocess the image for the neural network. The classNames list holds class labels for the detected objects.
+
+- The image is preprocessed using cv2.dnn.blobFromImage to prepare it for input to the network. The processed image is passed to the network, and detections are obtained using net.forward.
 
 .. code-block:: python
 
