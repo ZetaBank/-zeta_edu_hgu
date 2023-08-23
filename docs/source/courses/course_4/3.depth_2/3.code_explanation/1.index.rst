@@ -181,4 +181,4 @@ Overall Explanation
 
 - A message is printed indicating the class of the detected object and its distance from the camera.
 
-- This completes the explanation of the entire provided code.
+- This completes the explanation of the entire provided code..
