@@ -16,3 +16,4 @@ It also explains what functions the components perform.
     7.air
     8.ir
     9.screen
+    10.station
