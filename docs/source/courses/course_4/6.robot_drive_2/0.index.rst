@@ -6,5 +6,5 @@ Autonomous Driving Robot Application Case - Ⅰ
     intro
     parts/index
     gui/index
-    autoparking
     discussion
+    autoparking
