@@ -1,7 +1,7 @@
 Discussion
 =============
 
-The robot arm allows us to do variety of tasks with our robot. We have only tried elementary tasks with our robot arm through our lecture.
+Realsense lets you do a lot of things with your camera. We only did basic work using Realsense through the lecture.
 
 .. raw:: html
 
