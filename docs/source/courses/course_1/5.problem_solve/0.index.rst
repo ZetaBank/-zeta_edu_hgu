@@ -19,14 +19,12 @@ Problem Solving Project
 
 .. raw:: html
 
-1. Topic: Does hardware matter in the future?
+Topic: Does hardware matter in the future?
 
-    Reference: 'The Hardware Startup: Building Your Product, Business, and Brand' by Renee DiResta (Author), Brady Forrest (Author), Ryan Vinyard (Author)
-                <https://www.yes24.com/Product/Goods/32517549/>
+Reference: 'The Hardware Startup: Building Your Product, Business, and Brand' by Renee DiResta (Author), Brady Forrest (Author), Ryan Vinyard (Author)
+            <https://www.yes24.com/Product/Goods/32517549/>
 
-|
-
-    Evaluation Standard:
-        1. Submit a report of 20 pages or more
-        2. Pick another team and let that team evaluate their team.
-        3. Grades are A+ or A only.
+Evaluation Standard:
+    1. Submit a report of 20 pages or more
+    2. Pick another team and let that team evaluate their team.
+    3. Grades are A+ or A only.
