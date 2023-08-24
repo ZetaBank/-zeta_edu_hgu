@@ -1,4 +1,4 @@
-Team DIY Presentation
+Team DIY Project Presentation
 ================
 
 .. raw:: html
@@ -19,6 +19,4 @@ Team DIY Presentation
 
 .. raw:: html
 
-1. Let's present the autonomous driving quiz by team.
-
-2. After presentation, You will now be assigned to a new team.
+1. Let's present the AI DIY and UI DIY projects by team.
