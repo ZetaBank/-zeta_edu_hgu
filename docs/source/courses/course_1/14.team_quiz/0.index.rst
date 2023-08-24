@@ -21,17 +21,17 @@ Team Quiz (Robot)
 
 Topic: 
     1. Components of the robot.
-        1. How does the concept of "sensor fusion" enhance a robot's perception accuracy and reliability in complex environments?
-        2. Discuss the significance of "robotic grasping." How do AI and machine learning contribute to improving the success rate of robotic grasps?
-        3. What is "collaborative robotics"? Provide examples of applications where robots work alongside humans to enhance productivity and safety.
-        4. Discuss the concept of "human-robot interaction." How can robots be designed to understand and respond to human gestures and verbal commands effectively?
-        5. Describe the concept of "soft robots." How do their deformable structures open up new possibilities in tasks that rigid robots struggle with?
-        6. Discuss the concept of "robotic exoskeletons." How do these wearable devices assist individuals with mobility impairments and contribute to rehabilitation?
-        7. Describe the concept of "tactile sensing" in robotics. How can robots be equipped with sensors to better understand the properties of objects they interact with?
-        8. Discuss the role of "aerial drones" in various industries. What are the challenges and opportunities in using drones for tasks like surveillance and package delivery?
-        9. Describe the concept of "robotic manipulation." How do robots use their end-effectors to interact with and manipulate objects in their environment?
-        10. Discuss the ethical considerations surrounding "autonomous vehicles." How can AI and robotics address challenges related to decision-making in potential accidents?
-    
+        1. How can robots be used in educational settings to engage students, teach coding and programming, and provide personalized learning experiences?
+        2. How will transportation systems and urban planning change with the development of self-driving technologies such as self-driving cars and drones?
+        3. Is there a way to combine robotics and art, using robots to create new forms of artistic expression, such as interactive installations and kinetic sculptures?
+        4. How will robots contribute to space exploration in space exploration, such as planetary probes and autonomous satellites?
+        5. How will robotics be applied in the medical field, including robotic aids, prosthetics and rehabilitation devices for individuals with mobility impairments?
+        6. How can robots and automation be applied to tasks such as growing, harvesting, and monitoring crop health to improve production efficiency and growing conditions in agriculture?
+        7. What are the potential implications for robotics and industrial automation given the current state of ROS 2 applications and how ROS 2 might shape these sectors?
+        8. How will the integration of fifth generation (5G) communication technologies affect robotics and the ROS ecosystem?
+        9. What are some examples of use of ROS in medical robotics and applications, such as surgical assistance, medical image analysis, and patient monitoring?
+        10. What is the role and application of ROS in drone technology, drone control, autonomous flight, environmental awareness, etc.?
+
     2. Robot assembly status by team.
         Complete the assembly of the robot within the time limit of 2 hours and draw a circle using the joystick!
         
