@@ -5,15 +5,15 @@ Team DIY Project Presentation
     
     <div style="background: #C3F8FF" class="admonition note custom">
         <p style="background: light-blue" class="admonition-title">
-            Team Quiz Presentation: Autonomous Driving
+            Team DIY Project: Presentation
         </p>
         <div class="line-block">
-            <div class="line">This is a team quiz presentation where each team announces their answers.</div>
+            <div class="line">This is a project where teams work together to accomplish missions and challenges.</div>
         </div>
         <ul>
-            <li>Let's see if our answer is correct.</li>
-            <li>It's time for each team to present their hard-earned answers.</li>
-            <li>There may even be a reward if you get the right answer!</li>
+            <li>Let's work together with your teammates to achieve your goal.</li>
+            <li>It's time to work with your team to formulate a strategy and achieve your goals.</li>
+            <li>There may even be rewards for great results!</li>
         </ul>
     </div>
 
