@@ -34,3 +34,13 @@ Topic:
         2. Describe "reinforcement learning" algorithms in the context of robotic control. Discuss how Q-learning and policy gradient methods work, and explain the trade-offs between model-free and model-based reinforcement learning approaches.
         3. Discuss the significance of "object detection" in robotic computer vision. How do deep learning techniques, such as convolutional neural networks (CNNs), improve the accuracy and speed of object detection tasks? Provide examples of object detection architectures.
         4. Elaborate on "motion planning" algorithms in robotics. How do AI algorithms enable robots to generate collision-free paths and trajectories in complex environments? Explain the A* algorithm and its variations in the context of motion planning.
+
+
+|
+
+Evaluation Standard:
+    1. Choose one AI essential question and one AI choice question to submit your report.
+
+    2. A+ : Write at least 20 pages
+       A  : Write at least 15 pages
+       B+ : Write at least 10 pages

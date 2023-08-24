@@ -39,3 +39,17 @@ Topic:
             1. Check if each function of the robot is working properly.
             2. Check that the motor is working properly, the camera and lidar are working well, and there are no abnormalities in the sensors.
             3. Check once again that the screws are not assembled or are not loose.
+
+|
+
+Evaluation Standard:
+    1. Choose two topics to submit your report.
+
+    2. A+ : Write at least 20 pages
+       A  : Write at least 15 pages
+       B+ : Write at least 10 pages
+
+    3. The assembly evaluation criteria are as follows.
+       A+ : Assembly and operation completed within 1 hour and 30 minutes
+       A  : Assembly and operation completed within 2 hours
+       B+ : Assembly and operation completed in more than 2 hours
