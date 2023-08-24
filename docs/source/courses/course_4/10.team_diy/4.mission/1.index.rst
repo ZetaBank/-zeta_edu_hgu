@@ -58,7 +58,7 @@ Open the mission folder and open the mission-dance.ipynb file.
 
 - mission-dance.ipynb
 
-.. thumbnail:: /_images/courses/course_4/7.team_diy_1/mission_dance.png
+.. thumbnail:: /_images/courses/course_4/arm_dance/mission_dance.png
 
 - To control the robot arm from code, don't forget to shut down the docker container. See `here <https://zeta-edu-lecture.readthedocs.io/en/latest/lecture_courses/course_1/5.robot_arm_ex/2.basic_control/2.before_starting.html>`_.
 
@@ -81,7 +81,7 @@ Open the mission folder and open the mission-dance.ipynb file.
 
 - Check out what music you can choose from.
 
-.. thumbnail:: /_images/courses/course_4/7.team_diy_1/gui_dance1.png
+.. thumbnail:: /_images/courses/course_4/arm_dance/gui_dance1.png
 
 .. code-block:: python
 
@@ -110,7 +110,7 @@ Make Your Robot Dance to the Music!
 
 Now let the robot dance to the music you want. Don't forget to add sleep() code between robot movements.
 
-.. thumbnail:: /_images/courses/course_4/7.team_diy_1/gui_dance2.png
+.. thumbnail:: /_images/courses/course_4/arm_dance/gui_dance2.png
     
  
 (**IMPORTANT**) 

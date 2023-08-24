@@ -18,7 +18,7 @@ Organize folders and code
 Overall
 -----------------------
 
-.. thumbnail:: /_images/ai_autonomous_robot/foldertree.png
+.. thumbnail:: /_images/courses/course_1/jupyter/foldertree.png
 
 - If you go into the lecture folder of jupyterhub, you can see the following folders.
 

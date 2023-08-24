@@ -25,7 +25,7 @@ How to connect
     .. code:: 
       
       http://10.42.0.1:8000
-    .. thumbnail:: /_images/ai_autonomous_robot/jup1.jpg
+    .. thumbnail:: /_images/courses/course_1/jupyter/jup1.jpg
     
   * Input Username / Password 
     
@@ -33,26 +33,26 @@ How to connect
      
      username: zetabank
      password: 12345678
-    .. thumbnail:: /_images/ai_autonomous_robot/jup2.jpg
+    .. thumbnail:: /_images/courses/course_1/jupyter/jup2.jpg
     
   * JupyterLab Main Page
     
-    .. thumbnail:: /_images/intro/cap1.png
+    .. thumbnail:: /_images/courses/course_1/jupyter/cap1.png
 
 How to run code
 -----------------------
 
   * Moving to 'lecture' folder
   
-    .. thumbnail:: /_images/intro/cap2.png
+    .. thumbnail:: /_images/courses/course_1/jupyter/cap2.png
     
   * Moving to '5.Robot Arm' folder
   
-    .. thumbnail:: /_images/intro/cap3.png
+    .. thumbnail:: /_images/courses/course_1/jupyter/cap3.png
   
   * Opening 05_04_dance.ipynb file
   
-    .. thumbnail:: /_images/intro/cap4.png
+    .. thumbnail:: /_images/courses/course_1/jupyter/cap4.png
     
   * Run the cells
   
@@ -60,4 +60,4 @@ How to run code
     With your team members, se
       Ctrl + Enter
 
-    .. thumbnail:: /_images/intro/cap5.png
+    .. thumbnail:: /_images/courses/course_1/jupyter/cap5.png
