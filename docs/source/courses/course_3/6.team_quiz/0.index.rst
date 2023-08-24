@@ -21,19 +21,20 @@ Team Quiz (AI)
 
 Topic: 
     1. AI essential questions
-        1. Discuss the role of "computer vision" in robotics. How do AI techniques like convolutional neural networks improve object recognition and scene understanding?
-        2. Explain the concept of "neural network control" in robotics. How can neural networks be used to improve the precision and flexibility of robotic movements?
-        3. Discuss the challenges and advancements in "natural language processing" for human-robot interaction. How do robots understand and respond to human language?
-        4. Describe the concept of "perception-driven robotics." How do AI algorithms enhance a robot's ability to interpret and respond to its environment?
-        5. Describe the concept of "explainable AI" in robotics. How can robots provide transparent and understandable explanations for their decisions and actions?
-        6. Discuss the challenges and benefits of "multi-agent reinforcement learning" in coordinating the actions of multiple robots to achieve a common goal.
-
+        1. How AI systems handle complex decisions under uncertain circumstances, and how can techniques such as probabilistic modeling be applied to the autonomous driving field of robots?
+        2. What is meta-learning, where AI systems learn how to learn, and how can this approach lead to the development of more adaptive and faster learning algorithms?
+        3. How can AI use supervised learning to predict and prevent potential errors, and what role can it play in forecasting, maintenance, early disease diagnosis and risk mitigation?
+        4. What is AI's ability to discover hidden patterns and structures in data through unsupervised learning and discuss applications in the areas of market analysis, anomaly detection, etc.?
+        5. What are the roles of layers, neurons, in the way neural networks simulate the interconnected structures of the brain, and what are the similarities between how humans and machines learn?
+        6. What is the mechanism of a convolutional neural network (CNN) and how it processes visual information layer by layer to recognize objects, faces and scenes?
+        7. How can natural conversations and emotionally intelligent interactions be created in the mechanism of AI-based chatbots?
 
     2. AI choice questions
-        1. Explain the concept of "SLAM" (Simultaneous Localization and Mapping) in robotics. How do AI and machine learning techniques contribute to solving the SLAM problem, and what are the key challenges in accurate simultaneous localization and mapping?
-        2. Describe "reinforcement learning" algorithms in the context of robotic control. Discuss how Q-learning and policy gradient methods work, and explain the trade-offs between model-free and model-based reinforcement learning approaches.
-        3. Discuss the significance of "object detection" in robotic computer vision. How do deep learning techniques, such as convolutional neural networks (CNNs), improve the accuracy and speed of object detection tasks? Provide examples of object detection architectures.
-        4. Elaborate on "motion planning" algorithms in robotics. How do AI algorithms enable robots to generate collision-free paths and trajectories in complex environments? Explain the A* algorithm and its variations in the context of motion planning.
+        1. Is there a way to apply DetectNet to situations beyond human detection, such as counting people in crowded areas or tracking animals for wildlife research?
+        2. The importance of SegNet in semantic segmentation, where AI assigns a class label to each pixel in an image, and examples of how it can be applied to things like medical imaging, urban planning, and scene recognition?
+        3. Is there a way to extend PoseNet's technology to estimate not only pose, but also depth information, contributing to 3D scene reconstruction and mixed reality experiences?
+        4. In the problem of accurately segmenting a foreground subject in a complex background, how exactly does BackgroundNet's architecture solve this problem?
+        5. What is DepthNet's role in estimating depth in 2D images so that artificial intelligence can detect the distance of an object from a camera, and how it can be applied to places like robotics, autonomous vehicles and 3D modeling?
 
 Evaluation Standard:
     1. Choose one AI essential question and one AI choice question to submit your report.
