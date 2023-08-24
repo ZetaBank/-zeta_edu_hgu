@@ -38,20 +38,20 @@ Create a new python file in the Jupyter Notebook Environment:
 
 -   Press the blue plus button on the top left corner of the web.
 
-    .. thumbnail:: /_images/ai_training/add_plus.png
+    .. thumbnail:: /_images/courses/course_2/ai_training/add_plus.png
 
 |
 
 -   Create a new python file by pressing the ``Python File`` button
 
-    .. thumbnail:: /_images/ai_training/pick_python.png
+    .. thumbnail:: /_images/courses/course_2/ai_training/pick_python.png
 
 |
 
 -   Rename the untitiled python file to ``02_3-1. team_mission.py``
 
 
-    .. thumbnail:: /_images/ai_training/day_one/team_mission1.png
+    .. thumbnail:: /_images/courses/course_2/ai_training/day_one/team_mission1.png
 
 |
 
@@ -133,7 +133,7 @@ Create a new python file in the Jupyter Notebook Environment:
     -   | Running the cell code
         | `Ctrl + Enter`
 
-    .. thumbnail:: /_images/ai_training/day_one/team_mission2.png
+    .. thumbnail:: /_images/courses/course_2/ai_training/day_one/team_mission2.png
 
 |
 

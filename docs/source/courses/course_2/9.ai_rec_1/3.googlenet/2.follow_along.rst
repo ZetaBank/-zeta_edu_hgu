@@ -28,7 +28,7 @@ Follow Along!
 -   | Running the cell code
     | `Ctrl + Enter`
 
-.. thumbnail:: /_images/course_1/3.ai_image_recognition/googlenet1.png
+.. thumbnail:: /_images/courses/course_2/ai_image_recognition/googlenet1.png
 
 
 -   Import the subprocess module to run the example scripts (i.e. show.sh, kill.sh)
@@ -48,7 +48,7 @@ Follow Along!
         subprocess.call((run_command_before.split('\n')), shell=True)
 
 
-    .. thumbnail:: /_images/course_1/3.ai_image_recognition/googlenet2.png
+    .. thumbnail:: /_images/courses/course_2/ai_image_recognition/googlenet2.png
 
 |
 
@@ -79,7 +79,7 @@ Follow Along!
 
 
 
-    .. thumbnail:: /_images/course_1/3.ai_image_recognition/googlenet3.png
+    .. thumbnail:: /_images/courses/course_2/ai_image_recognition/googlenet3.png
 
 |
 

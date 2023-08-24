@@ -24,13 +24,13 @@ Create a new python file in the Jupyter Notebook Environment:
 
 -   Press the blue plus button on the top left corner of the web.
 
-    .. thumbnail:: /_images/ai_training/add_plus.png
+    .. thumbnail:: /_images/courses/course_2/ai_training/add_plus.png
 
 |
 
 -   Create a new python file by pressing the ``Python File`` button
 
-    .. thumbnail:: /_images/ai_training/pick_python.png
+    .. thumbnail:: /_images/courses/course_2/ai_training/pick_python.png
 
 |
 
@@ -185,7 +185,7 @@ Executing the Custom Program
 
 -   Open the ``02_5-3. segmentation_camera.ipynb`` notebook.
 
-.. thumbnail:: /_images/ai_training/segmentation_camera.png
+.. thumbnail:: /_images/courses/course_2/ai_training/segmentation_camera.png
 
 |
 

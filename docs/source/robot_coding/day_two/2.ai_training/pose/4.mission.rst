@@ -31,13 +31,13 @@ Create a new python file in the Jupyter Notebook Environment:
 
 -   Press the blue plus button on the top left corner of the web.
 
-    .. thumbnail:: /_images/ai_training/add_plus.png
+    .. thumbnail:: /_images/courses/course_2/ai_training/add_plus.png
 
 |
 
 -   Create a new python file by pressing the ``Python File`` button
 
-    .. thumbnail:: /_images/ai_training/pick_python.png
+    .. thumbnail:: /_images/courses/course_2/ai_training/pick_python.png
 
 |
 
@@ -177,7 +177,7 @@ Executing the Custom Program
 
 -   Open the ``02_4-2. pose_estimation_camera.py`` notebook.
 
-.. thumbnail:: /_images/ai_training/pose_estimation_camera.png
+.. thumbnail:: /_images/courses/course_2/ai_training/pose_estimation_camera.png
 
 |
 
@@ -233,8 +233,8 @@ Let's Change the Overlay!!!
 
     Examples:
 
-    .. thumbnail:: /_images/ai_training/example1.jpg
+    .. thumbnail:: /_images/courses/course_2/ai_training/example1.jpg
 
     |
 
-    .. thumbnail:: /_images/ai_training/example2.jpg
+    .. thumbnail:: /_images/courses/course_2/ai_training/example2.jpg

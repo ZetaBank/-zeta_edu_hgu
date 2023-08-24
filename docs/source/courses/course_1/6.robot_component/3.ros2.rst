@@ -1,7 +1,7 @@
 ROS 2 (Raspberry Pi)
 ======================
 
-.. image:: /_images/ai_autonomous_robot/ros_jets.webp  
+.. image:: /_images/courses/course_1/robot_component/ros_jets.webp  
 
 * ROS 2 Features
 
