@@ -22,6 +22,6 @@ Joystick Operation
 
 How to Control Robot Using Joystick
 ----------------
-.. thumbnail:: /_images/courses/course_1/joystick/joystick1.png
+.. thumbnail:: /_images/joystick/joystick1.png
 
-.. thumbnail:: /_images/courses/course_1/joystick/joystick2.png
+.. thumbnail:: /_images/joystick/joystick2.png

@@ -1,7 +1,7 @@
 JupyterLab
 ==========
 
-.. image:: /_images/courses/course_1/robot_component/jupyter.jpg
+.. image:: /_images/robot_component/jupyter.jpg
 
 * JupyterLab Features
 

@@ -165,7 +165,7 @@ Executing the Custom Program
 
 -   Open the ``02_6-2. object_detection_camera.py`` notebook.
 
-.. thumbnail:: /_images/courses/course_2/ai_pose_detect/object_detection_camera.png
+.. thumbnail:: /_images/ai_pose_detect/object_detection_camera.png
 
 |
 
@@ -221,8 +221,8 @@ Let's Change the Overlay!!!
 
     Examples:
 
-    .. thumbnail:: /_images/courses/course_2/ai_pose_detect/object_detection_camera1.jpg
+    .. thumbnail:: /_images/ai_pose_detect/object_detection_camera1.jpg
 
     |
 
-    .. thumbnail:: /_images/courses/course_2/ai_pose_detect/object_detection_camera2.jpg
+    .. thumbnail:: /_images/ai_pose_detect/object_detection_camera2.jpg

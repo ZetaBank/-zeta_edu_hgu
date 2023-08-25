@@ -28,45 +28,45 @@ Python Coding with ChatGPT
 
 |
 
-.. thumbnail:: /_images/courses/course_1/chatgpt/chatgpt1.png
+.. thumbnail:: /_images/chatgpt/chatgpt1.png
 
 2. Log in to the ChatGPT site. If you do not have an account, create an account.
 
 |
 
-.. thumbnail:: /_images/courses/course_1/chatgpt/chatgpt2.png
+.. thumbnail:: /_images/chatgpt/chatgpt2.png
 
 3. Enter the desired prompt in the 'send a message' window.
 
 |
 
-.. thumbnail:: /_images/courses/course_1/chatgpt/chatgpt3.png
+.. thumbnail:: /_images/chatgpt/chatgpt3.png
 
 4. When you have finished entering, click the 'send' button.
 
 |
 
-.. thumbnail:: /_images/courses/course_1/chatgpt/chatgpt4.png
+.. thumbnail:: /_images/chatgpt/chatgpt4.png
 
 5. Wait a moment and you will see ChatGPT's answer.
 
 |
 
 
-.. thumbnail:: /_images/courses/course_1/chatgpt/chatgpt5.png
+.. thumbnail:: /_images/chatgpt/chatgpt5.png
 
 6. Click the button next to it to see what we've talked about so far.
 
 
 |
 
-.. thumbnail:: /_images/courses/course_1/chatgpt/chatgpt6.png
+.. thumbnail:: /_images/chatgpt/chatgpt6.png
 
 7. Now, let's write the desired code with the help of ChatGPT.
 
 |
 
-.. thumbnail:: /_images/courses/course_1/chatgpt/chatgpt7.png
+.. thumbnail:: /_images/chatgpt/chatgpt7.png
 
 8. Here is the code we wrote with the help of ChatGPT.
 

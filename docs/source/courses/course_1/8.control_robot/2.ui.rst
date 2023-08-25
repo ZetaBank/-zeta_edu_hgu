@@ -18,7 +18,7 @@ Interface UI
 Overall
 -----------------------
 
-.. thumbnail:: /_images/courses/course_1/ui/ui_base.png
+.. thumbnail:: /_images/ui/ui_base.png
 
 - The entire UI is like the picture above.
 
@@ -37,22 +37,22 @@ Overall
 Performing with a robot
 -----------------------
 
-.. thumbnail:: /_images/courses/course_1/ui/ui2-1.png
+.. thumbnail:: /_images/ui/ui2-1.png
 
 - Click the 'Performing with a robot' button.
 
-.. thumbnail:: /_images/courses/course_1/ui/ui2-2.png
+.. thumbnail:: /_images/ui/ui2-2.png
 
 - After waiting for a while, click the 'start' button and the robot arm will dance to the music.
 
 Catching monsters
 -----------------------
 
-.. thumbnail:: /_images/courses/course_1/ui/ui1-1.png
+.. thumbnail:: /_images/ui/ui1-1.png
 
 - Click the 'Catching monsters' button.
 
-.. thumbnail:: /_images/courses/course_1/ui/ui1-2.png
+.. thumbnail:: /_images/ui/ui1-2.png
 
 - A timer of 3 minutes for each individual, 2 minutes for each team, and 1 minute for the team is given in order of each button.
 
@@ -61,22 +61,22 @@ Catching monsters
 Artificial Intelligence Education
 -----------------------
 
-.. thumbnail:: /_images/courses/course_1/ui/ui3.png
+.. thumbnail:: /_images/ui/ui3.png
 
 - Click the 'Artificial Intelligence Education' button.
 
-.. thumbnail:: /_images/courses/course_1/ui/ui2-2.png
+.. thumbnail:: /_images/ui/ui2-2.png
 
 - After waiting for a while, press the 'start' button to close the UI window, and AI training is ready to run.
 
 Let's save robots and the earth
 -----------------------
 
-.. thumbnail:: /_images/courses/course_1/ui/ui4.png
+.. thumbnail:: /_images/ui/ui4.png
 
 - Click the 'Let's save robots and the earth' button.
 
-.. thumbnail:: /_images/courses/course_1/ui/ui2-2.png
+.. thumbnail:: /_images/ui/ui2-2.png
 
 - After waiting for a while, press the 'start' button to start the relay race.
 

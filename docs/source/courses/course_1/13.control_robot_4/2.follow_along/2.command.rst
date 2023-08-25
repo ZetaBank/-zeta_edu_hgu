@@ -49,7 +49,7 @@ Open the following jupyter notebook:
 
     $ !rosnode list
 
-.. thumbnail:: /_images/courses/course_2/robot_control_move/comm3.png
+.. thumbnail:: /_images/robot_control_move/comm3.png
 
 
 -   Outputs joy_node Print Node information
@@ -58,7 +58,7 @@ Open the following jupyter notebook:
 
     $ !rosnode info /joy_node
 
-.. thumbnail:: /_images/courses/course_2/robot_control_move/comm4.webp
+.. thumbnail:: /_images/robot_control_move/comm4.webp
 
 
 -   Prints a list of currently running ROS topics
@@ -67,7 +67,7 @@ Open the following jupyter notebook:
 
     $ !rostopic list
 
-.. thumbnail:: /_images/courses/course_2/robot_control_move/comm5.png
+.. thumbnail:: /_images/robot_control_move/comm5.png
 
 
 -   Output information of imu Topic
@@ -76,7 +76,7 @@ Open the following jupyter notebook:
 
     $ !rostopic info /imu
 
-.. thumbnail:: /_images/courses/course_2/robot_control_move/comm6.png
+.. thumbnail:: /_images/robot_control_move/comm6.png
 
 
 -   Print imu Topic Message
@@ -85,7 +85,7 @@ Open the following jupyter notebook:
 
     $ !rostopic echo /imu
 
-.. thumbnail:: /_images/courses/course_2/robot_control_move/comm7.png
+.. thumbnail:: /_images/robot_control_move/comm7.png
 
 
 -   Check process list using pm2
@@ -94,7 +94,7 @@ Open the following jupyter notebook:
 
     $ pm2 list
 
-.. thumbnail:: /_images/courses/course_2/robot_control_move/comm8.webp
+.. thumbnail:: /_images/robot_control_move/comm8.webp
 
 
 -   Output information of zetasound Node
@@ -103,5 +103,5 @@ Open the following jupyter notebook:
 
     $ !rosnode info /zetasound
 
-.. thumbnail:: /_images/courses/course_2/robot_control_move/comm9.png
+.. thumbnail:: /_images/robot_control_move/comm9.png
 

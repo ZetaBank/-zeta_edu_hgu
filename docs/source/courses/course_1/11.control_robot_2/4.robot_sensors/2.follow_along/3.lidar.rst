@@ -30,7 +30,7 @@ Open the following jupyter notebook:
 - 03_04_scan.ipynb
 - To run the cells within the notebook use *Ctrl + Enter*
 
-.. thumbnail:: /_images/courses/course_2/robot_control/sensor5.png
+.. thumbnail:: /_images/robot_control/sensor5.png
 
 |
 

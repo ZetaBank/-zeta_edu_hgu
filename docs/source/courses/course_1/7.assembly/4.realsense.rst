@@ -7,42 +7,42 @@ Intel RealSense is a series of depth perception cameras and modules designed to 
 
 1. Place the RealSense bracket.
 
-    .. thumbnail:: /_images/courses/course_1/assembly/3-16.jpg
+    .. thumbnail:: /_images/assembly/3-16.jpg
 
 |
 |
 
 2. Loosely install the two nuts and bolts onto the RealSense bracket.
 
-    .. thumbnail:: /_images/courses/course_1/assembly/3-17.jpg
+    .. thumbnail:: /_images/assembly/3-17.jpg
 
 |
 |
 
 3. Install RealSense and tighten two nuts.
 
-    .. thumbnail:: /_images/courses/course_1/assembly/3-18.jpg
+    .. thumbnail:: /_images/assembly/3-18.jpg
 
 |
 |
 
 4. Plug in the usb cable.
 
-    .. thumbnail:: /_images/courses/course_1/assembly/3-19.jpg
+    .. thumbnail:: /_images/assembly/3-19.jpg
 
 |
 |
 
 5. Install the RealSense module on the top plate.
 
-    .. thumbnail:: /_images/courses/course_1/assembly/3-20.jpg
+    .. thumbnail:: /_images/assembly/3-20.jpg
 
 |
 |
 
 6. Plug the other end of the usb cable into the Jetson Nano.
 
-    .. thumbnail:: /_images/courses/course_1/assembly/3-21.jpg
+    .. thumbnail:: /_images/assembly/3-21.jpg
 
 |
 |

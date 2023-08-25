@@ -30,7 +30,7 @@ Detecting object distance using Depth Camera and SSD-Mobilenet
 -   | Running the cell code.
     | `Ctrl + Enter`
 
-.. thumbnail:: /_images/courses/course_4/depth_camera/depth_ex_3-1.png
+.. thumbnail:: /_images/depth_camera/depth_ex_3-1.png
 
 -   Load the modules needed to run your code.
 
@@ -69,7 +69,7 @@ Detecting object distance using Depth Camera and SSD-Mobilenet
 
 -   Display the loaded image in rgb color.
 
-.. thumbnail:: /_images/courses/course_4/depth_camera/depth_ex_3-2.png
+.. thumbnail:: /_images/depth_camera/depth_ex_3-2.png
 
 .. code-block:: python
 
@@ -81,7 +81,7 @@ Detecting object distance using Depth Camera and SSD-Mobilenet
 
 -   Display the loaded image in colorized depth.
 
-.. thumbnail:: /_images/courses/course_4/depth_camera/depth_ex_3-3.png
+.. thumbnail:: /_images/depth_camera/depth_ex_3-3.png
 
 .. code-block:: python
     # Colorize depth frame using the RealSense colorizer:
@@ -91,7 +91,7 @@ Detecting object distance using Depth Camera and SSD-Mobilenet
 
 -   Display an image by comparing an RGB color image to a color depth image.
 
-.. thumbnail:: /_images/courses/course_4/depth_camera/depth_ex_3-4.png
+.. thumbnail:: /_images/depth_camera/depth_ex_3-4.png
 
 .. code-block:: python
     # Create alignment primitive with color as its target stream:
@@ -108,7 +108,7 @@ Detecting object distance using Depth Camera and SSD-Mobilenet
 
 -   Load the model to use SSD-MobileNet and display the detected class.
 
-.. thumbnail:: /_images/courses/course_4/depth_camera/depth_ex_3-5.png
+.. thumbnail:: /_images/depth_camera/depth_ex_3-5.png
 
 .. code-block:: python
     # Standard OpenCV boilerplate for running the neural network:
@@ -154,7 +154,7 @@ Detecting object distance using Depth Camera and SSD-Mobilenet
 
 -   Use the depth to guess the size of the detected object.
 
-.. thumbnail:: /_images/courses/course_4/depth_camera/depth_ex_3-6.png
+.. thumbnail:: /_images/depth_camera/depth_ex_3-6.png
 
 .. code-block:: python
     # Scale detection coordinates to depth frame:
@@ -172,7 +172,7 @@ Detecting object distance using Depth Camera and SSD-Mobilenet
 
 -   Measure the distance of the detected object.
 
-.. thumbnail:: /_images/courses/course_4/depth_camera/depth_ex_3-7.png
+.. thumbnail:: /_images/depth_camera/depth_ex_3-7.png
 
 .. code-block:: python
     # Crop depth data and convert to meters:

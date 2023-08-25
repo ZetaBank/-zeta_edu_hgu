@@ -29,7 +29,7 @@ Compare Color Image and Depth Image via Widget
 -   | Running the cell code.
     | `Ctrl + Enter`
 
-.. thumbnail:: /_images/courses/course_4/depth_camera/depth_ex_2-1.png
+.. thumbnail:: /_images/depth_camera/depth_ex_2-1.png
 
 -   Load the modules needed to run your code.
 
@@ -130,5 +130,5 @@ Compare Color Image and Depth Image via Widget
 
 -   If executed correctly, the following window will appear on the Jupyter Notebook.
 
-.. thumbnail:: /_images/courses/course_4/depth_camera/depth_ex_2-2.png
+.. thumbnail:: /_images/depth_camera/depth_ex_2-2.png
 

@@ -26,13 +26,13 @@ Create a new Python file in the Jupyter Notebook environment and name it ``02_07
 
 -   Press the blue plus button on the top left corner of the web.
 
-    .. thumbnail:: /_images/courses/course_2/AI/add_plus.png
+    .. thumbnail:: /_images/AI/add_plus.png
 
 |
 
 -   Create a new python file by pressing the ``Python File`` button
 
-    .. thumbnail:: /_images/courses/course_2/AI/pick_python.png
+    .. thumbnail:: /_images/AI/pick_python.png
 
 |
 
@@ -210,7 +210,7 @@ Executing the Custom Program
 
 -   Open the ``02_07-2.background_camera.py`` notebook.
 
-.. thumbnail:: /_images/courses/course_2/background/background_camera.png
+.. thumbnail:: /_images/background/background_camera.png
 
 |
 
@@ -242,7 +242,7 @@ Executing the Custom Program
 
     Examples:
 
-    .. thumbnail:: /_images/courses/course_2/background/background_camera_remove.jpg
+    .. thumbnail:: /_images/background/background_camera_remove.jpg
 
 -   If you want to perform background replacement, add the ``--replace`` flag followed by the path to the replacement image.
 
@@ -255,7 +255,7 @@ Executing the Custom Program
 
     Examples:
 
-    .. thumbnail:: /_images/courses/course_2/background/background_camera_replace.jpg
+    .. thumbnail:: /_images/background/background_camera_replace.jpg
 
 -   Feel free to experiment with different replacement images and settings to achieve your desired result!
 

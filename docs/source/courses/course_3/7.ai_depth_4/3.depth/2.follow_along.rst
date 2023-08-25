@@ -30,7 +30,7 @@ Follow Along!
 -   | Running the cell code
     | `Ctrl + Enter`
 
-.. thumbnail:: /_images/courses/course_2/ai_segmentation_depth/depth.png
+.. thumbnail:: /_images/ai_segmentation_depth/depth.png
 
 
 -   Initialize your output stream, and your path, and import in the Image library
@@ -57,7 +57,7 @@ Follow Along!
         !ls $INPUT_PATH/trail_*
 
 
-    .. thumbnail:: /_images/courses/course_2/ai_segmentation_depth/depth_list.png
+    .. thumbnail:: /_images/ai_segmentation_depth/depth_list.png
 
 |
 
@@ -93,4 +93,4 @@ Follow Along!
         Image(filename=output_path+'/depth_result.jpg') 
 
 
-    .. thumbnail:: /_images/courses/course_2/ai_segmentation_depth/depth_result.png
+    .. thumbnail:: /_images/ai_segmentation_depth/depth_result.png

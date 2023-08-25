@@ -185,7 +185,7 @@ Executing the Custom Program
 
 -   Open the ``02_8-3. depth_camera.ipynb`` notebook.
 
-.. thumbnail:: /_images/courses/course_2/ai_segmentation_depth/depth_camera.png
+.. thumbnail:: /_images/ai_segmentation_depth/depth_camera.png
 
 |
 

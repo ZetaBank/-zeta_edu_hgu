@@ -157,7 +157,7 @@ Executing the Custom Program
 
 -   Open the ``02_12-3. tao_facedetect_camera.ipynb`` notebook.
 
-.. thumbnail:: /_images/courses/course_2/ai_tao/facedetect_camera.png
+.. thumbnail:: /_images/ai_tao/facedetect_camera.png
 
 |
 

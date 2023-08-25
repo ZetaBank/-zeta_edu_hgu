@@ -30,7 +30,7 @@ Follow Along!
 -   | Running the cell code
     | `Ctrl + Enter`
 
-.. thumbnail:: /_images/courses/course_2/ai_segmentation_depth/segmentation.png
+.. thumbnail:: /_images/ai_segmentation_depth/segmentation.png
 
 
 -   Initialize your output stream, and your path, and import in the Image library
@@ -70,7 +70,7 @@ CityScapes
         Image(filename=input_path+'/'+image_name) 
 
 
-    .. thumbnail:: /_images/courses/course_2/ai_segmentation_depth/city.jpg
+    .. thumbnail:: /_images/ai_segmentation_depth/city.jpg
 
 |
 
@@ -93,7 +93,7 @@ CityScapes
         Image(filename=output_path+'/city_result.jpg') 
 
 
-    .. thumbnail:: /_images/courses/course_2/ai_segmentation_depth/city_seg.jpg
+    .. thumbnail:: /_images/ai_segmentation_depth/city_seg.jpg
 
 Outdoor (off-road)
 -------------------
@@ -117,7 +117,7 @@ Outdoor (off-road)
         Image(filename=input_path+'/'+image_name) 
 
 
-    .. thumbnail:: /_images/courses/course_2/ai_segmentation_depth/outdoor.jpg
+    .. thumbnail:: /_images/ai_segmentation_depth/outdoor.jpg
 
 |
 
@@ -139,7 +139,7 @@ Outdoor (off-road)
         Image(filename=output_path+'/trail_result.jpg') 
 
 
-    .. thumbnail:: /_images/courses/course_2/ai_segmentation_depth/outdoor_seg.jpg
+    .. thumbnail:: /_images/ai_segmentation_depth/outdoor_seg.jpg
 
 
 Segmenting Human Images
@@ -164,7 +164,7 @@ Segmenting Human Images
 
         Image(filename=input_path+'/'+image_name) 
 
-    .. thumbnail:: /_images/courses/course_2/ai_segmentation_depth/people.jpg
+    .. thumbnail:: /_images/ai_segmentation_depth/people.jpg
 
 |
 
@@ -187,7 +187,7 @@ Segmenting Human Images
         Image(filename=output_path+'/humans_seg_result.jpg') 
 
 
-    .. thumbnail:: /_images/courses/course_2/ai_segmentation_depth/people_seg.jpg
+    .. thumbnail:: /_images/ai_segmentation_depth/people_seg.jpg
 
 
 Variaty Objects and People
@@ -212,7 +212,7 @@ Variaty Objects and People
         Image(filename=input_path+'/'+image_name) 
 
 
-    .. thumbnail:: /_images/courses/course_2/ai_segmentation_depth/object.jpg
+    .. thumbnail:: /_images/ai_segmentation_depth/object.jpg
 
 |
 
@@ -235,7 +235,7 @@ Variaty Objects and People
         Image(filename=output_path+'/object_result.jpg') 
 
 
-    .. thumbnail:: /_images/courses/course_2/ai_segmentation_depth/object_seg.jpg
+    .. thumbnail:: /_images/ai_segmentation_depth/object_seg.jpg
 
 
 In-Doors
@@ -259,7 +259,7 @@ In-Doors
 
         Image(filename=input_path+'/'+image_name) 
  
-    .. thumbnail:: /_images/courses/course_2/ai_segmentation_depth/indoor.jpg
+    .. thumbnail:: /_images/ai_segmentation_depth/indoor.jpg
 
 |
 
@@ -281,4 +281,4 @@ In-Doors
         Image(filename=output_path+'/room_result.jpg') 
 
 
-    .. thumbnail:: /_images/courses/course_2/ai_segmentation_depth/indoor_seg.jpg
+    .. thumbnail:: /_images/ai_segmentation_depth/indoor_seg.jpg
