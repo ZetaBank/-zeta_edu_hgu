@@ -5,10 +5,8 @@ Here are the contents for this section:
 
 .. toctree:: 
     :titlesonly:
-    
-    2.introduction
-    3.googlenet/1.index
-    4.alexnet/1.index
-    5.googlenet_alexnet
-    6.do_it_together
-    7.qa
+    2.googlenet/1.index
+    3.alexnet/1.index
+    4.googlenet_alexnet
+    5.do_it_together
+    6.qa

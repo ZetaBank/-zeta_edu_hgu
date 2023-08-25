@@ -21,9 +21,9 @@ Follow Along!
         <div class="line">(The Jetson Board used for these examples are => Jetson Nano)</div>
     </div>
 
-.. thumbnail:: /_images/background_2_remove_result.jpg
+.. thumbnail:: /_images/background/background_2_remove_result.jpg
 
-.. thumbnail:: /_images/background_3_replace_result.jpg
+.. thumbnail:: /_images/background/background_3_replace_result.jpg
 
 
 .. raw:: html
@@ -35,7 +35,7 @@ Follow Along!
 -   | Running the cell code
     | `Ctrl + Enter`
 
-.. thumbnail:: /_images/background_0.png
+.. thumbnail:: /_images/background/background_0.png
 
 
 -   Initialize your output stream, and your path, and import in the Image library
@@ -61,7 +61,7 @@ Follow Along!
         !ls $INPUT_PATH/*
 
 
-    .. thumbnail:: /_images/background_1_list.png
+    .. thumbnail:: /_images/background/background_1_list.png
 
 |
 
@@ -95,7 +95,7 @@ Follow Along!
         Image(filename=output_path+'/background_remove.jpg') 
 
 
-    .. thumbnail:: /_images/background_2_remove_result.jpg
+    .. thumbnail:: /_images/background/background_2_remove_result.jpg
 
 |
 
@@ -117,4 +117,4 @@ Follow Along!
         Image(filename=output_path+'/background_replace.jpg') 
 
 
-    .. thumbnail:: /_images/background_3_replace_result.jpg
+    .. thumbnail:: /_images/background/background_3_replace_result.jpg

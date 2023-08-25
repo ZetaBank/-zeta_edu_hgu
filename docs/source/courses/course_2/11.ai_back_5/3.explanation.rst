@@ -14,7 +14,7 @@ and in video editing, where elements can be added or removed from the scene.
 
 |
 
-.. thumbnail:: /_images/backgroundnet_diagram.jpg
+.. thumbnail:: /_images/background/backgroundnet_diagram.jpg
 
 
 In this diagram:
