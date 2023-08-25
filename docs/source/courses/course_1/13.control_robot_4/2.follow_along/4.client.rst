@@ -40,9 +40,9 @@ Open the following jupyter notebook:
 
 
 
-.. thumbnail:: /_images/course_2/3.robot_control_move/comm10.webp
+.. thumbnail:: /_images/courses/course_2/robot_control_move/comm10.webp
 
-.. thumbnail:: /_images/course_2/3.robot_control_move/comm11.webp
+.. thumbnail:: /_images/courses/course_2/robot_control_move/comm11.webp
 
 
 -   Import print_function from `__future__` module for Python3 compatibility

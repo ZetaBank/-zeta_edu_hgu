@@ -48,7 +48,7 @@ is connected to the zeta wifi.
 
 When the website is accessed, the screen similar to the following will be displayed:
 
-.. thumbnail:: /_images/ai_training/isaac_page.png
+.. thumbnail:: /_images/courses/course_2/isaac_page.png
 
 |
 

@@ -38,9 +38,9 @@ Open the following jupyter notebook:
 -   02_02_ros_service_client.ipynb
 -   To run the cells within the notebook use *Ctrl + Enter*
 
-.. thumbnail:: /_images/course_2/3.robot_control_move/comm12.png
+.. thumbnail:: /_images/courses/course_2/robot_control_move/comm12.png
 
-.. thumbnail:: /_images/course_2/3.robot_control_move/comm13.png
+.. thumbnail:: /_images/courses/course_2/robot_control_move/comm13.png
 
 
 -   Import print_function from __future__ module for Python3 compatibility

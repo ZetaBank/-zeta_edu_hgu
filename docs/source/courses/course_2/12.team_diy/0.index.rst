@@ -19,13 +19,13 @@ Team DIY AI
 
 .. raw:: html
 
-
-1. Define Clear Objectives: Articulate the AI challenge and establish measurable goals that align with available resources.
-
-2. Craft a Skilled Ensemble: Curate a team with diverse expertise, pooling talents from varied domains.
-
-3. Collaborate on Model Development: Jointly construct AI models, integrating them seamlessly and continuously enhancing them through feedback.
-
-4. Execute Deployment Strategy: Optimize models for robust deployment, focusing on scalability and efficient performance.
-
-5. Share Insights Across Frontiers: Foster knowledge exchange within the team and beyond, enriching the broader AI community with valuable experiences and insights.
+Let's take a HuStar commemorative photo!
+----------------
+- Let's take a commemorative photo with the members using the AI BackgroundNet we have learned so far.
+- If you have something to commemorate HuStar, even better!
+- Let's take a cool picture that you can brag to your friends!
+|
+Rules
+----------------
+- Group members gather and take pictures together.
+- The background is free to choose.
