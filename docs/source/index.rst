@@ -64,6 +64,7 @@ In Education Provided by ZetaBank:
     courses/course_1/6.robot_component/0.index
     courses/course_1/7.assembly/0.index
     courses/course_1/8.control_robot/0.index
+    courses/line
     courses/course_1/9.ros_intro/0.index
     courses/course_1/10.control_robot_1/0.index
     courses/course_1/11.control_robot_2/0.index
@@ -74,7 +75,7 @@ In Education Provided by ZetaBank:
 
 
 .. toctree:: 
-    :caption: ROS C++ Programming and AI
+    :caption: ROS C++ Programming & AI
     :hidden:
     
     courses/course_2/1.team_quiz_presentation/0.index
@@ -82,43 +83,47 @@ In Education Provided by ZetaBank:
     courses/course_2/3.ros_2/0.index
     courses/course_2/4.ros_3/0.index
     courses/course_2/5.ros_4/0.index
-    courses/course_2/6.ros_5/0.index
-    courses/course_2/7.team_coop/0.index
-    courses/course_2/8.ai_1/0.index
-    courses/course_2/9.ai_rec_1/0.index
+    courses/course_2/6.team_coop/0.index
+    courses/line
+    courses/course_2/7.ai_1/0.index
+    courses/course_2/8.ai_rec_1/0.index
+    courses/course_2/9.team_quiz/0.index
     courses/course_2/10.problem_solve/0.index
-    courses/course_2/11.ai_tao_2/0.index
+    courses/course_2/11.ai_back_5/0.index
     courses/course_2/12.team_diy/0.index
    
 .. toctree:: 
-    :caption: PyQT and Robotic Deep AI
+    :caption: PyQT & Robotic Deep AI
     :hidden:
    
     courses/course_3/1.ai_2/0.index
     courses/course_3/2.ai_pose_3/0.index
-    courses/course_3/3.pyqt_1/0.index
-    courses/course_3/4.pyqt_2/0.index
+    courses/course_3/3.team_quiz/0.index
+    courses/line
+    courses/course_3/4.pyqt_1/0.index
+    courses/course_3/5.pyqt_2/0.index
     courses/course_3/5.team_diy/0.index
-    courses/course_3/6.team_quiz/0.index
-    courses/course_3/7.team_coop/0.index
-    courses/course_3/8.ai_depth_4/0.index
-    courses/course_3/9.ai_obj_2/0.index
+    courses/course_3/6.team_coop/0.index
+    courses/line
+    courses/course_3/7.ai_depth_4/0.index
+    courses/course_3/8.ai_obj_2/0.index
+    courses/course_3/9.team_quiz_presentation/0.index
     courses/course_3/10.problem_solve/0.index
-    courses/course_3/11.depth_1/0.index
+    courses/course_3/11.ai_tao_2/0.index
 
 .. toctree::
     :caption: Autonomous Driving & Robot Arm
     :hidden:
     
-    courses/course_4/1.team_quiz_presentation/0.index
-    courses/course_4/2.team_diy_presentation/0.index
+    courses/course_4/1.team_diy_presentation/0.index
+    courses/course_4/2.depth_1/0.index
     courses/course_4/3.depth_2/0.index
-    courses/course_4/4.ai_back_5/0.index
-    courses/course_4/5.robot_drive_1/0.index
-    courses/course_4/6.robot_drive_2/0.index
-    courses/course_4/7.robot_drive_3/0.index
+    courses/course_4/4.robot_drive_1/0.index
+    courses/course_4/5.robot_drive_2/0.index
+    courses/course_4/6.robot_drive_3/0.index
+    courses/course_4/7.robot_drive_4/0.index
     courses/course_4/8.robot_arm_1/0.index
-    courses/course_4/9.robot_arm_2/0.index
+    courses/course_4/9.problem_solve_presentation/0.index
     courses/course_4/10.team_diy/0.index
     courses/course_4/11.team_diy_presentation/0.index
 

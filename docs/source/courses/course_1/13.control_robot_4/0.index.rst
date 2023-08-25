@@ -1,13 +1,13 @@
-ROS Python Control - Ⅳ
-=============
+ROS Python Control - Ⅱ
+================
 
 
 Here are the contents for this section:
 
-.. toctree:: 
+.. toctree::
 
-    2.follow_along
-    3.explanation
-    4.coding_explanation
-    5.mission
-    6.discussion
+    2.follow_along/1.index
+    3.explanation/1.index
+    4.mission
+    5.discussion
+    6.qa
