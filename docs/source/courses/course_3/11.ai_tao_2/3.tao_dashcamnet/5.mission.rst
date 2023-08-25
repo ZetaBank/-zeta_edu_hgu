@@ -157,7 +157,7 @@ Executing the Custom Program
 
 -   Open the ``02_11-3. tao_dashcamnet_camera.ipynb`` notebook.
 
-.. thumbnail:: /_images/course_4/2.ai_tao/dashcam_camera.png
+.. thumbnail:: /_images/courses/course_2/ai_tao/dashcam_camera.png
 
 |
 
