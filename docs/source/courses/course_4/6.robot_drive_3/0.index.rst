@@ -4,7 +4,7 @@ Autonomous Driving Robot Application Case - Ⅰ
 .. toctree::
 
     intro
-    parts/index
+    components
     gui/index
     discussion
     autoparking
