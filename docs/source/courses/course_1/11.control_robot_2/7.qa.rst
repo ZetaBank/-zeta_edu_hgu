@@ -12,11 +12,7 @@ Q&A session
         
         Sample Questions:
         <ul>
-            <li>Through out our example, we discussed about many different sensors. Is there any real life examples of these sensors being used?
-                <ul>
-                    <li> For example, what kind of sensors are there in machines such as Tesla, or Google car?</li>
-                </ul>
-            </li>
-            <li>How is ROS used in the field?</li>
+            <li>Through examples, we explored the simple code structure of Python.</li>
+            <li>Let's compare Python with the programming languages we've used so far, and tell us if there are any features, strengths or weaknesses.</li>
         </ul>
     </div>
