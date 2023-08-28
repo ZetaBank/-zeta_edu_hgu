@@ -75,16 +75,16 @@ ROS C++ Build Settings
         .. code-block:: cmake
 
             find_package(catkin REQUIRED COMPONENTS
-            roscpp
-            rospy
-            std_msgs
-        )
+                roscpp
+                rospy
+                std_msgs
+            )
 
-        catkin_package()
+            catkin_package()
 
-        include_directories(
-            ${catkin_INCLUDE_DIRS}
-        )
+            include_directories(
+                ${catkin_INCLUDE_DIRS}
+            )
 
     - For each C++ node you create, add an executable target in your CMakeLists.txt:
 
