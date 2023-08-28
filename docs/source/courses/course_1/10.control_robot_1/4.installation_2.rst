@@ -5,7 +5,7 @@ How to Install Visual Studio Code
 
 1. Download Visual Studio Code for Windows from the download page of the official Visual Studio Code website.
 
-<https://www.python.org/downloads/>
+<https://code.visualstudio.com/download/>
 
 |
 
