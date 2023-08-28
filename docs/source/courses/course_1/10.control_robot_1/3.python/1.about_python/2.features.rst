@@ -1,6 +1,8 @@
 Features of Python
 ======================
 
+.. thumbnail:: /_images/python/python_logo.png
+
 Python: A Language of Intuitive Expression
 ^^^^^^^^^^^^^^^^^^^^^^
 
