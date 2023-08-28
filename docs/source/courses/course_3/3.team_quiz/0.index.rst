@@ -36,10 +36,15 @@ Topic:
         4. In the problem of accurately segmenting a foreground subject in a complex background, how exactly does BackgroundNet's architecture solve this problem?
         5. What is DepthNet's role in estimating depth in 2D images so that artificial intelligence can detect the distance of an object from a camera, and how it can be applied to places like robotics, autonomous vehicles and 3D modeling?
 
+    3. Nvidia Video
+
+
 Evaluation Standard:
     1. Choose one AI essential question and one AI choice question to submit your report.
 
-    2. The report evaluation criteria are as follows.
+    2. Write a report about what you felt after watching the video.
+
+    3. The report evaluation criteria are as follows.
         - A+ : Write at least 20 pages
         - A  : Write at least 15 pages
         - B+ : Write at least 10 pages
