@@ -1,9 +1,0 @@
-Follow Along!
-============================
-
-Here are the follow along contents:
-
-.. toctree:: 
-
-    2.track_color
-    3.tracking_face

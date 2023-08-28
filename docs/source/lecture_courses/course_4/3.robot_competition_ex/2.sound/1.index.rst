@@ -1,8 +1,0 @@
-Follow Along!
-============================
-
-Here are the follow along contents:
-
-.. toctree:: 
-
-    2.sound

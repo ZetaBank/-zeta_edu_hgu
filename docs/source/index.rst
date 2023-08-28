@@ -128,10 +128,3 @@ In Education Provided by ZetaBank:
     courses/course_4/9.problem_solve_presentation/0.index
     courses/course_4/10.team_diy/0.index
     courses/course_4/11.team_diy_presentation/0.index
-
-.. toctree::
-    :maxdepth: 6
-    :hidden:
-    :caption: A New World with AI Robots
-
-    robot_coding/day_four/index
