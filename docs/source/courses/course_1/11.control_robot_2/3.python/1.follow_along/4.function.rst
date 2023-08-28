@@ -67,3 +67,12 @@ Class
     area2 = rect2.calculate_area()
     print("Area 1:", area1)
     print("Area 2:", area2)
+
+More Code Examples
+----------------------
+
+- Feel like you're not familiar enough with Python yet?
+
+- More Python examples in the link below!
+
+<https://github.com/ZetaBank/zeta_education_examples/>
