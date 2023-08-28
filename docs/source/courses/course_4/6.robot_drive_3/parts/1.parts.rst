@@ -1,11 +1,11 @@
-Start Robot
+Parts for Autonomous Driving
 ====================================================
 
 These are the steps to start the robot.
 
 -------------------------------------------------------------------------------
 
-Power Switch
+Front Side
 ^^^^^^^^^^^^^^^^^^^^^^
 
 Turn the power switch clockwise.
