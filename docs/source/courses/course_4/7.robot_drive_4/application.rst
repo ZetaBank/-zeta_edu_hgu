@@ -18,7 +18,7 @@ App Screen
 Route guidance function using autonomous driving
 ^^^^^^^^^^^^^^^^^^^^^
 
-.. thumbnail:: /_images/modelc/app6.png
+.. thumbnail:: /_images/modelc/direct.png
 |
 
 1. Map making
