@@ -10,3 +10,37 @@ Introducing how it was used in the actual field.
     </div>
 
 |
+
+--------------------------------------------------------------
+
+Gwangju Biennale
+^^^^^^^^^^^^^^^^
+
+.. thumbnail:: /_images/modelc/gj.png
+|
+
+-------------------------------------------------------------
+
+Daegu Exco
+^^^^^^^^^^^^^^^^
+
+.. thumbnail:: /_images/modelc/exco3.jpg
+|
+
+.. thumbnail:: /_images/modelc/exco.png
+|
+
+--------------------------------------------------------------
+
+Daegu Exhibition
+^^^^^^^^^^^^^^^^
+
+.. thumbnail:: /_images/modelc/exco2.jpg
+|
+
+--------------------------------------------------------------
+
+Daegu City Hall Annex Cafe
+^^^^^^^^^^^^^^^^
+
+.. thumbnail:: /_images/modelc/city.jpg
