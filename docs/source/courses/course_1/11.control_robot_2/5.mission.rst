@@ -150,6 +150,7 @@ Mission
     - Complete the conditions that fit the rock-paper-scissors situation.
 
     .. code-block:: python
+
         # Rock, Paper, Scissors battle
 
         import random
@@ -194,3 +195,5 @@ Mission
 
         if __name__ == "__main__":
             main()  # Run the main game loop
+
+|
