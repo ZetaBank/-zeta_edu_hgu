@@ -100,3 +100,10 @@ Additional explanation
 
 - Set the radius of the wheels and the distance between them
 
+|
+
+.. thumbnail:: /_images/autodrive/param.png
+
+- There are many other things to set up as well.
+- Small differences in each value have a big impact on driving.
+- It is important to find the optimal value for driving through many tests.
