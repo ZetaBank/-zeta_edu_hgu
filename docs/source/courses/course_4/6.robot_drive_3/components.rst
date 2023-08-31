@@ -39,4 +39,4 @@ Top View
 
 - Air Purifier Fan : Air purification through fans and filters inside the robot
 - LED battery : Displays the robot's battery status and function through color change
-- Object Recognition Camera : Recognize people and stop using applications
+- Object Recognition Camera : Detect people and stop driving for app users
