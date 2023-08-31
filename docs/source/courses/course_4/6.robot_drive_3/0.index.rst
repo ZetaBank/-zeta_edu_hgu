@@ -6,6 +6,6 @@ Autonomous Driving Robot Application Case - Ⅰ
     intro
     components
     gui/index
-    autoparking
+    autocharge
     discussion
     
