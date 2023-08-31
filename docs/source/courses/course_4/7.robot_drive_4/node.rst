@@ -54,6 +54,8 @@ Mimetic Diagram
 - A driving plan is developed using four major types of data.
 - Through this, the motor is controlled and driven.
 - Receive real-time feedback on how much you moved through the encoder.
+- IMU : Sensors that measure acceleration and angular velocity
+- odom : The concept of estimating a relative location by determining how far it is from the starting point, rather than knowing the absolute location like GPS
 |
 
 --------------------------------------------------------------------------------
@@ -66,3 +68,35 @@ Node Graph
 |
 
 .. thumbnail:: /_images/autodrive/24.png
+
+|
+
+.. thumbnail:: /_images/autodrive/25.png
+
+-------------------------------------------------------------------------------
+
+.. thumbnail:: /_images/autodrive/26.png
+.. thumbnail:: /_images/autodrive/27.png
+|
+
+-------------------------------------------------------------------------------
+
+Additional explanation
+^^^^^^^^^^^^^^^^^^^^^^^^^
+
+.. thumbnail:: /_images/autodrive/base.png
+
+- Setting the robot's reference point
+
+|
+
+.. thumbnail:: /_images/autodrive/imu.png
+
+- Coordinates and angle settings from the base link of the imu sensor
+
+|
+
+.. thumbnail:: /_images/autodrive/wheel.png
+
+- Set the radius of the wheels and the distance between them
+
