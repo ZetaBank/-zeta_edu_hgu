@@ -55,17 +55,23 @@ Algorithm
 
 |
 
+---------------------------------------------------------------
+
 .. thumbnail:: /_images/autocharge/contours.png
 
 - contours : Drawing the outline of an image
 
 |
 
+---------------------------------------------------------------
+
 .. thumbnail:: /_images/autocharge/rectangle.png
 
 - rectangle : Select only the outline of a rectangular shape
 
 |
+
+---------------------------------------------------------------
 
 .. thumbnail:: /_images/autocharge/result.png
 
