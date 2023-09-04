@@ -1,11 +1,11 @@
-Problem Solving Project
+Issue Analysis Project
 ================
 
 .. raw:: html
     
     <div style="background: #C3F8FF" class="admonition note custom">
         <p style="background: light-blue" class="admonition-title">
-            Problem Solving Project : Discussion
+            Issue Analysis Project: Discussion
         </p>
         <div class="line-block">
             <div class="line">This is for each team to thoroughly discuss and present a given topic.</div>
@@ -19,10 +19,10 @@ Problem Solving Project
 
 .. raw:: html
 
-Topic: What is the world disruptive companies are creating?
+Topic: What is the implementation methodology of the 4th industrial revolution?
 
-Reference: 'The Future of Megatech 2025: The Wealth Opportunity Created by Disruptive Enterprises' by Yasumasa Yamamoto (Author), Hyunho Shin (Translator)
-            <https://www.yes24.com/Product/Goods/101402054/>
+Reference: 'From Digital Transformation to Smart Transformation' by Lee Min-hwa (Author), Joo Kang-jin (Author)
+            <https://www.yes24.com/Product/Goods/74041990/>
 
 Evaluation Standard:
     1. Submit a report of 20 pages or more

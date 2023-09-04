@@ -60,17 +60,15 @@ In Education Provided by ZetaBank:
     courses/course_1/3.future_convergence_talent/0.index
     courses/course_1/4.issue_analysis/0.index
     courses/line
-    courses/course_1/5.problem_solve/0.index
-    courses/course_1/6.robot_component/0.index
-    courses/course_1/7.assembly/0.index
-    courses/course_1/8.control_robot/0.index
+    courses/course_1/5.robot_component/0.index
+    courses/course_1/6.assembly/0.index
+    courses/course_1/7.control_robot/0.index
     courses/line
-    courses/course_1/9.ros_intro/0.index
-    courses/course_1/10.control_robot_1/0.index
-    courses/course_1/11.control_robot_2/0.index
-    courses/course_1/12.control_robot_3/0.index
-    courses/course_1/13.control_robot_4/0.index
-    courses/course_1/14.team_quiz/0.index
+    courses/course_1/8.ros_intro/0.index
+    courses/course_1/9.python_1/0.index
+    courses/course_1/10.python_2/0.indexs
+    courses/course_1/11.python_3/0.index
+    courses/course_1/12.team_quiz/0.index
 
 
 
@@ -79,37 +77,41 @@ In Education Provided by ZetaBank:
     :hidden:
     
     courses/course_2/1.team_quiz_presentation/0.index
-    courses/course_2/2.ros_1/0.index
-    courses/course_2/3.ros_2/0.index
-    courses/course_2/4.ros_3/0.index
-    courses/course_2/5.ros_4/0.index
-    courses/course_2/6.team_coop/0.index
+    courses/course_2/2.ros_python_1/0.index
+    courses/course_2/3.ros_python_2/0.index
+    courses/course_2/4.ros_1/0.index
+    courses/course_2/5.ros_2/0.index
+    courses/course_2/6.ros_3/0.index
+    courses/course_2/7.ros_4/0.index
+    courses/course_2/8.team_coop/0.index
     courses/line
-    courses/course_2/7.ai_1/0.index
-    courses/course_2/8.ai_rec_1/0.index
-    courses/course_2/9.team_quiz/0.index
-    courses/course_2/10.problem_solve/0.index
-    courses/course_2/11.ai_back_5/0.index
-    courses/course_2/12.team_diy/0.index
+    courses/course_2/8.ai_1/0.index
+    courses/course_2/9.ai_2/0.index
+    courses/course_2/10.ai_rec_1/0.index
+    courses/course_2/11.ai_obj_2/0.index
+    courses/course_2/12.team_quiz/0.index
+    courses/course_2/13.issue_analysis/0.index
+    courses/course_2/14.ai_back_3/0.index
+    courses/course_2/15.team_diy/0.index
    
 .. toctree:: 
     :caption: PyQT & Robotic Deep AI
     :hidden:
    
-    courses/course_3/1.ai_2/0.index
-    courses/course_3/2.ai_pose_3/0.index
+    courses/course_3/1.ai_tao_4/0.index
+    courses/course_3/2.ai_pose_5/0.index
     courses/course_3/3.team_quiz/0.index
+    courses/course_3/4.ai_depth_6/0.index
     courses/line
     courses/course_3/4.pyqt_1/0.index
     courses/course_3/5.pyqt_2/0.index
-    courses/course_3/5.team_diy/0.index
     courses/course_3/6.team_coop/0.index
-    courses/line
-    courses/course_3/7.ai_depth_4/0.index
-    courses/course_3/8.ai_obj_2/0.index
+    courses/course_3/7.pyqt_3/0.index
+    courses/course_3/8.pyqt_4/0.index
     courses/course_3/9.team_quiz_presentation/0.index
-    courses/course_3/10.problem_solve/0.index
-    courses/course_3/11.ai_tao_2/0.index
+    courses/course_3/10.issue_analysis/0.index
+    courses/course_3/11.pyqt_5/0.index
+    courses/course_3/12.team_diy/0.index
 
 .. toctree::
     :caption: Autonomous Driving & Robot Arm
@@ -125,6 +127,6 @@ In Education Provided by ZetaBank:
     courses/course_4/7.robot_drive_4/0.index
     courses/line
     courses/course_4/8.robot_arm_1/0.index
-    courses/course_4/9.problem_solve_presentation/0.index
+    courses/course_4/9.issue_analysis/0.index
     courses/course_4/10.team_diy/0.index
     courses/course_4/11.team_diy_presentation/0.index
