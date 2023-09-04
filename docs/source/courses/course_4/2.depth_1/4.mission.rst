@@ -235,49 +235,74 @@ Python File Description
 Let's Start the Mission
 ^^^^^^^^^^^^^^^^^^^^^^^
 
-- Object: Let’s create a detector by adjusting the 3 steps.
+- Mission : Let’s create a 3-level detector by adjusting the thresholds.
 
-- Develop an object detector using distance thresholds to categorize objects detected by a RealSense depth camera into different proximity levels.
+- In this mission, the goal is to create a detector by coordinating the four main steps provided in the code.
 
-- The purpose of this detector is to identify and categorize objects based on their proximity to the camera. This can be useful in various applications such as robotics, autonomous vehicles, or surveillance systems where understanding the relative distance of objects is important for decision-making.
+- The purpose of this mission is to identify and categorize objects based on their proximity to the camera.
 
-.. code-block:: python
+- This can be useful in various applications such as robotics, autonomous vehicles, or surveillance systems where understanding the relative distance of objects is important for decision-making.
 
-    DISTANCE_MINIMUM = 0.01
+- Mission Steps:
 
-- This constant represents the minimum distance threshold.
+    - Step 1: Initialization and Configuration
 
-- Objects detected closer to the camera than this threshold (less than 0.01 meters away) are considered very close obstacles.
+        - To begin, initialize the RealSense pipeline and configure the depth stream settings. This step is already provided in the code, so no additional action is needed here.
 
-.. code-block:: python
+    - Step 2: Define Distance Thresholds
 
-    DISTANCE_NEAR = 0.3
+        - Define specific distance thresholds to categorize objects based on their proximity to the camera. Four constants are provided in the code for this purpose:
 
-- This constant represents the "near" distance threshold.
+        .. code-block:: python
 
-- Objects detected between DISTANCE_MINIMUM and DISTANCE_NEAR (between 0.01 and 0.3 meters) are considered obstacles that are relatively close to the camera.
+            DISTANCE_MINIMUM = 0.01
 
-.. code-block:: python
-    
-    DISTANCE_MEDIUM = 0.6
+        - This constant represents the minimum distance threshold.
 
-- This constant represents the "medium" distance threshold.
+        - Objects detected closer to the camera than this threshold (less than 0.01 meters away) are considered very close obstacles.
 
-- Objects detected between DISTANCE_NEAR and DISTANCE_MEDIUM (between 0.3 and 0.6 meters) are considered obstacles that are getting closer to the camera.
+        .. code-block:: python
 
-.. code-block:: python
+            DISTANCE_NEAR = 0.3
 
-    DISTANCE_FAR = 0.9
+        - This constant represents the "near" distance threshold.
 
-- This constant represents the "far" distance threshold.
+        - Objects detected between DISTANCE_MINIMUM and DISTANCE_NEAR (between 0.01 and 0.3 meters) are considered obstacles that are relatively close to the camera.
 
-- Objects detected between DISTANCE_MEDIUM and DISTANCE_FAR (between 0.6 and 0.9 meters) are considered obstacles that have been detected but are farther away from the camera.
+        .. code-block:: python
+            
+            DISTANCE_MEDIUM = 0.6
 
-- Now, let's tune the 3-step detector to suit your needs!
+        - This constant represents the "medium" distance threshold.
 
+        - Objects detected between DISTANCE_NEAR and DISTANCE_MEDIUM (between 0.3 and 0.6 meters) are considered obstacles that are getting closer to the camera.
+
+        .. code-block:: python
+
+            DISTANCE_FAR = 0.9
+
+        - This constant represents the "far" distance threshold.
+
+        - Objects detected between DISTANCE_MEDIUM and DISTANCE_FAR (between 0.6 and 0.9 meters) are considered obstacles that have been detected but are farther away from the camera.
+
+    - Step 3: Continuous Distance Measurement
+
+        - The code includes a continuous loop that performs real-time distance measurements to a specified point, typically the center of the image. This functionality utilizes the RealSense depth data to measure and categorize objects based on their proximity to the camera.
+
+    - Step 4: Visualization
+
+        - The code displays a colorized depth image to provide visualization of distance measurements. It also draws a rectangle around the measurement point and displays text indicating where the object lies compared to a predefined target distance.
+
+    - Step 5: Cleanup
+
+        - After exiting the continuous measurement loop, the code ensures proper cleanup by stopping the RealSense pipeline and closing any open OpenCV windows.
+
+- Your mission is to adjust the distance threshold to tailor the distance detector to your specific requirements.
 
 Advanced Mission
 ^^^^^^^^^^^^^^^^^^^^^^^
+
+- Now, let’s create our own filtering method by adjusting the thresholds.
 
 .. code-block:: python
 
