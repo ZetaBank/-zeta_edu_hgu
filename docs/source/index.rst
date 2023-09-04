@@ -66,7 +66,7 @@ In Education Provided by ZetaBank:
     courses/line
     courses/course_1/8.ros_intro/0.index
     courses/course_1/9.python_1/0.index
-    courses/course_1/10.python_2/0.indexs
+    courses/course_1/10.python_2/0.index
     courses/course_1/11.python_3/0.index
     courses/course_1/12.team_quiz/0.index
 
