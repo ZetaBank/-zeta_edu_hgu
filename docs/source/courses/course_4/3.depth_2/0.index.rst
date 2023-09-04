@@ -9,5 +9,5 @@ Here are the contents for this section:
 
     2.coding/1.index
     3.code_explanation/1.index
-    4.mission/1.index
-    4.discussion
+    4.mission
+    5.discussion
