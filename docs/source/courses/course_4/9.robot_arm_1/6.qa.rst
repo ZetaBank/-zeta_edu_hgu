@@ -12,7 +12,7 @@ Q&A session
         
         Sample Questions:
         <ul>
-            <li>Can new jobs be created as robot technology advances? If so, what types of jobs could be created?</li>
-            <li>How will interactions between humans and robots change as robotic technology advances? And what will be the impact of these changes on society?</li>
+            <li>What are some of the real life examples which utilizes robot arms?</li>
+            <li>With our examples we were able to control our Robot Arm using AI. Where can this be applied in the field?</li>
         </ul>
     </div>

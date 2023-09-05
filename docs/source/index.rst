@@ -125,8 +125,10 @@ In Education Provided by ZetaBank:
     courses/course_4/5.robot_drive_2/0.index
     courses/course_4/6.robot_drive_3/0.index
     courses/course_4/7.robot_drive_4/0.index
-    courses/line
-    courses/course_4/8.robot_arm_1/0.index
-    courses/course_4/9.issue_analysis/0.index
-    courses/course_4/10.team_diy/0.index
-    courses/course_4/11.team_diy_presentation/0.index
+    courses/
+    courses/course_4/8.issue_analysis/0.index
+    courses/course_4/9.robot_arm_1/0.index
+    courses/course_4/10.robot_arm_2/0.index
+    courses/course_4/11.robot_arm_3/0.index
+    courses/course_4/12.team_diy/0.index
+    courses/course_4/13.team_diy_presentation/0.index
