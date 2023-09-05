@@ -3,7 +3,9 @@ Autonomous Driving Robot Application Case - Ⅱ
 
 .. toctree::
 
-    intro
-    application
     node
+    autocharge
+    application
+    use
+    disccusion
     summary
