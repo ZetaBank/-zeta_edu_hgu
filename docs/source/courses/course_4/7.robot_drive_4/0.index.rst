@@ -7,5 +7,5 @@ Autonomous Driving Robot Application Case - Ⅱ
     autocharge
     application
     use
-    disccusion
+    discussion
     summary
