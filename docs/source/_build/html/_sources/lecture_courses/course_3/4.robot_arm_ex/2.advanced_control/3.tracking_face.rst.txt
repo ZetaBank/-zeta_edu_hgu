@@ -33,7 +33,7 @@ Tracking a Face with the Robotic Arm
 -   | Running the cell code
     | `Ctrl + Enter`
 
-.. thumbnail:: /_images/having_fun/face1.png
+.. thumbnail:: /_images/arm/face1.png
 
 -   To control the robot arm from code, don't forget to shut down the docker container. See `here <https://zeta-edu-lecture.readthedocs.io/en/latest/lecture_courses/course_1/5.robot_arm_ex/2.basic_control/2.before_starting.html>`_.
 

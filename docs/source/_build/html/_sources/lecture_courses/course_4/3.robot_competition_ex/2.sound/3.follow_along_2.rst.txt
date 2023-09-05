@@ -32,7 +32,7 @@ Dancing With Music 2!
 -   | Running the cell code
     | `Ctrl + Enter`
 
-.. thumbnail:: /_images/having_fun/arm_dance2.png
+.. thumbnail:: /_images/arm/arm_dance2.png
 
 -   To make sure that no other program is using the robot arm, turn off the joy stick control and allow for robot arm to be controlled:
 

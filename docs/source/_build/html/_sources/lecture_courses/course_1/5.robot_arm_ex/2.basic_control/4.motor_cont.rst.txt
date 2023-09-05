@@ -31,7 +31,7 @@ Controlling Servo Motors
 -   | Running the cell code
     | `Ctrl + Enter`
 
-.. thumbnail:: /_images/having_fun/motor_cont1.webp
+.. thumbnail:: /_images/arm/motor_cont1.webp
 
 
 |
