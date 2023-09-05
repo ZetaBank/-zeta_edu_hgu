@@ -8,4 +8,3 @@ Autonomous Driving Robot Application Case - Ⅱ
     application
     use
     design
-    summary
