@@ -33,7 +33,7 @@ Dancing With Music 1!
 -   | Running the cell code
     | `Ctrl + Enter`
 
-.. thumbnail:: /_images/having_fun/arm_dance1.png
+.. thumbnail:: /_images/arm/arm_dance1.png
 
 -   Robot arm dance example with an exciting music - 1
 

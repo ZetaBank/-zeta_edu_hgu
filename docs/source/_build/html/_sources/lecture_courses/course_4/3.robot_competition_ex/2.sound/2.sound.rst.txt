@@ -35,7 +35,7 @@ Dancing With Music!
 
 -   To control the robot arm from code, don't forget to shut down the docker container. See `here <https://zeta-edu-lecture.readthedocs.io/en/latest/lecture_courses/course_1/5.robot_arm_ex/2.basic_control/2.before_starting.html>`_.
 
-.. thumbnail:: /_images/having_fun/arm_dance1.png
+.. thumbnail:: /_images/arm/arm_dance1.png
 
 -   Robot arm dance example with an exciting music.
 

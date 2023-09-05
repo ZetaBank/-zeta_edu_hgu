@@ -30,7 +30,7 @@ Moving the Robot Arm
 -   | Running the cell code
     | `Ctrl + Enter`
 
-.. thumbnail:: /_images/having_fun/arm1.webp
+.. thumbnail:: /_images/arm/arm1.webp
 
 
 -   To make sure that no other program is using the robot arm, turn off the joy stick control and allow for robot arm to be controlled:
