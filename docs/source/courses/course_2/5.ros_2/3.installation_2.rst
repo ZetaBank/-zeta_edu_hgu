@@ -38,7 +38,7 @@ How to Run C++ Code in Visual Studio Code
 
 |
 
-.. thumbnail:: /_images/cpp_install/vs4.
+.. thumbnail:: /_images/cpp_install/vs4.png
     
 4. Click 'Run Build Task' in the 'Terminal' tab. <Shortcut key: Control + Shift + B>
 
@@ -64,7 +64,7 @@ How to Run C++ Code in Visual Studio Code
 
 .. thumbnail:: /_images/cpp_install/vs8.png
 
-8. Open a new terminal <Shortcut key: Control + Shift + '`'> and run the '.'\hello_world.exe' file.
+8. Open a new terminal <Shortcut key: Control + Shift + '`'> and run the '.'\\hello_world.exe' file.
 
 |
 

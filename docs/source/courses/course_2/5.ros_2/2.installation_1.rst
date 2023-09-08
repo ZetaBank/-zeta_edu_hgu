@@ -11,7 +11,7 @@ How to Install GCC / G++ Compiler
 
 .. thumbnail:: /_images/cpp_install/cpp2.png
 
-2. Click the x86_64-posix-seh download link.
+2. Click the 'x86_64-posix-seh' download link.
 
 |
 
@@ -35,7 +35,7 @@ How to Install GCC / G++ Compiler
 
 .. thumbnail:: /_images/cpp_install/cpp6.png
 
-6. Move the entire mingw64 folder to 'C:\'.
+6. Move the entire mingw64 folder to 'C:\\'.
 
 |
 
@@ -65,7 +65,7 @@ How to Install GCC / G++ Compiler
 
 .. thumbnail:: /_images/cpp_install/cpp11.png
 
-11. Enter 'C:\mingw64\bin' and click 'OK'.
+11. Enter 'C:\\mingw64\\bin' and click 'OK'.
 
 |
 
