@@ -41,7 +41,7 @@ With our python program, the user must specify
 
     .. code-block:: python
 
-        !python3 $PROGRAM_PATH/detectnet.py $INPUT_PATH/$IMAGE_NAME $OUTPUT_PATH/$OUTPUT_NAME
+        !python3 $PROGRAM_PATH/detectnet.py --network=peoplenet $INPUT_PATH/$IMAGE_NAME $OUTPUT_PATH/$OUTPUT_NAME
 
     With ``!python3 $PROGRAM_PATH/detectnet.py`` as our activation function, we have:
     

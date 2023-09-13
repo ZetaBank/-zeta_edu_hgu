@@ -6,7 +6,7 @@ Mission
 
     <div style="background: #ffe5b4" class="admonition note custom">
         <p style="background: #ffbf00" class="admonition-title">
-            Project Name: Custom Segmentation System
+            Project Name: Custom Peoplenet System
         </p>
         <div class="line-block">
             <div class="line"><strong>-</strong> This mission is an <strong>individual project</strong></div>
@@ -18,7 +18,7 @@ Mission
 Writing Custom segNet Program
 ---------------------------------
 
-Similar to how we created a new python file in our team assignment, generate a new python file and name it ``02_8-2. depth_camera.py``.
+Similar to how we created a new python file in our team assignment, generate a new python file and name it ``02_10-2. tao_peoplenet_camera.py``.
 
 Create a new python file in the Jupyter Notebook Environment:
 
@@ -157,7 +157,7 @@ Executing the Custom Program
 
 -   Open the ``02_10-3. tao_peoplenet_camera.ipynb`` notebook.
 
-.. thumbnail:: /_images/ai_tao/peoplenet_camera.png
+.. thumbnail:: /_images/ai_tao/people_camera.png
 
 |
 

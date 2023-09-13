@@ -6,7 +6,7 @@ Mission
 
     <div style="background: #ffe5b4" class="admonition note custom">
         <p style="background: #ffbf00" class="admonition-title">
-            Project Name: Custom Segmentation System
+            Project Name: Custom Dashcamnet System
         </p>
         <div class="line-block">
             <div class="line"><strong>-</strong> This mission is an <strong>individual project</strong></div>
@@ -18,7 +18,7 @@ Mission
 Writing Custom segNet Program
 ---------------------------------
 
-Similar to how we created a new python file in our team assignment, generate a new python file and name it ``02_8-2. depth_camera.py``.
+Similar to how we created a new python file in our team assignment, generate a new python file and name it ``02_11-2. tao_dashcamnet_camera.py``.
 
 Create a new python file in the Jupyter Notebook Environment:
 
