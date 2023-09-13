@@ -1,7 +1,7 @@
 Discussion
-=============
+==========
 
-The object detection system allows for us to estimate the pose or gesture a human is doing through a computer 
+The advancements in object detection systems allow us not only to identify objects but to gain deeper insights into patterns, behaviors, and even estimate human poses or gestures through computer vision.
 
 .. raw:: html
 
@@ -11,12 +11,13 @@ The object detection system allows for us to estimate the pose or gesture a huma
         </p>
         <ul>
             <li> 
-                If you were to apply this system to a consumer product, what kind of product would that be? For example:
+                <strong>Potential Applications:</strong> Imagining the broad capabilities of object detection systems, if you were to integrate such a system into a consumer product, what would it be? Examples:
                 <ul>
-                    <li>Foot Traffic Analysis</li>
-                    <li>Airport Security System</li>
+                    <li>Foot Traffic Analysis: Understand pedestrian flow in urban settings.</li>
+                    <li>Airport Security System: Enhance security by detecting suspicious objects or activities.</li>
                 </ul>
             </li>
-            <li> If you could improve or add a feature onto Detect Object system, what would it be?</li>
+            <li> <strong>Improving the System:</strong> Consider possible enhancements for the Detect Object system. What additional features or refinements would you suggest?</li>
         </ul>
     </div>
+
