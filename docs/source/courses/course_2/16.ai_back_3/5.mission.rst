@@ -248,7 +248,7 @@ Executing the Custom Program
 
     .. code-block:: python
 
-        !python3 /home/zeta/notebook/lecture/'2.AI Training Examples'/'02_07-2.background_camera.py' --replace=images/coral.jpg $CAMERA
+        !python3 /home/zeta/notebook/lecture/'2.AI Training Examples'/'02_07-2.background_camera.py' --network=u2net --replace=images/coral.jpg $CAMERA
 
 
 -   The program will run and show the output stream with the background removed and replaced with the specified image.
