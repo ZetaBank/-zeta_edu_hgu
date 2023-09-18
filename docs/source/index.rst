@@ -82,41 +82,40 @@ In Education Provided by ZetaBank:
     courses/line
     courses/course_4/2.depth_1/0.index
     courses/course_4/3.depth_2/0.index
+    courses/course_2/15.issue_analysis/0.index
     courses/course_2/9.team_coop/0.index
     courses/line
     courses/course_2/10.ai_1/0.index
     courses/course_2/11.ai_2/0.index
     courses/course_2/12.ai_rec_1/0.index
     courses/course_2/13.ai_obj_2/0.index
-    courses/course_2/14.team_quiz/0.index
-    courses/course_2/15.issue_analysis/0.index
     courses/course_2/16.ai_back_3/0.index
-    courses/course_2/17.team_diy/0.index
+    courses/course_3/1.ai_tao_4/0.index
+    courses/course_3/2.ai_pose_5/0.index
+    courses/course_3/4.ai_depth_6/0.index
+    courses/course_3/3.team_quiz/0.index
+    courses/course_2/15.issue_analysis/0.index
+     courses/course_2/17.team_diy/0.index
    
 .. toctree:: 
     :caption: PyQT & C++
     :hidden:
    
-    courses/course_3/1.ai_tao_4/0.index
-    courses/course_3/2.ai_pose_5/0.index
-    courses/course_3/3.team_quiz/0.index
-    courses/course_3/4.ai_depth_6/0.index
-    courses/line
     courses/course_3/4.pyqt_1/0.index
+    courses/course_3/9.team_quiz_presentation/0.index
     courses/course_3/5.pyqt_2/0.index
-    courses/course_3/6.team_coop/0.index
     courses/course_3/7.pyqt_3/0.index
     courses/course_3/8.pyqt_4/0.index
-    courses/course_3/9.team_quiz_presentation/0.index
-    courses/course_3/10.issue_analysis/0.index
     courses/course_3/11.pyqt_5/0.index
+    courses/course_3/10.issue_analysis/0.index
+    courses/course_3/12.team_diy/0.index
     courses/line
     courses/course_2/4.ros_1/0.index
     courses/course_2/5.ros_2/0.index
     courses/course_2/6.ros_3/0.index
     courses/course_2/7.ros_4/0.index
     courses/course_2/8.ros_5/0.index
-    courses/course_3/12.team_diy/0.index
+    courses/course_3/6.team_coop/0.index
 
 .. toctree::
     :caption: Autonomous Driving & Robot Arm
