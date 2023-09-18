@@ -1,7 +1,7 @@
 Discussion
 =============
 
-The Segmentation system allows us to differentiate the environment. through our examples we were able to see how the system can be applied to variety of different applications.  
+DepthNet allows us to estimate depth in images, enhancing various applications like augmented reality, robot navigation, and 3D reconstruction. 
 
 .. raw:: html
 
@@ -11,14 +11,16 @@ The Segmentation system allows us to differentiate the environment. through our 
         </p> 
         <ul>
             <li> 
-                If you could create your own segmentation system, where would it be used?
+                Where do you see the most potential for DepthNet in consumer products?
             </li>
             <li>
-                How would you make your segmentation model? 
+                What challenges might arise when integrating DepthNet into a new application?
                 <ul>
-                    <li> When creating a machine learning model, we need a model architecture and a data to train the said architecture. Depending on the application, we may import premade segmentation model architecture, but we need to collect our own data for our specific task. For example for MRI scans, we need to have a segmentation model that would differentiate diseased portion from the healthy patch. To do this, we need multiple MRI scans that are labeled by professional to train our model.</li>
+                    <li> For DepthNet to be effective, high-quality training data is essential. For instance, if we want to use it for indoor robot navigation, we need datasets comprising diverse indoor scenes. How would you gather and curate such data?</li>
                 </ul>
+            </li>
+            <li>
+                Can you think of innovative applications or areas where DepthNet hasn't been applied yet but would be beneficial?
             </li>
         </ul>
     </div>
-

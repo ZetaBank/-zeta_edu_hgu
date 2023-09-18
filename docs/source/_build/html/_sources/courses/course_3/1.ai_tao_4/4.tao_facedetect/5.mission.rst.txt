@@ -18,19 +18,19 @@ Mission
 Writing Custom segNet Program
 ---------------------------------
 
-Similar to how we created a new python file in our team assignment, generate a new python file and name it ``02_8-2. depth_camera.py``.
+Similar to how we created a new python file in our team assignment, generate a new python file and name it ``02_12-2. tao_facedetect_camera.py``.
 
 Create a new python file in the Jupyter Notebook Environment:
 
 -   Press the blue plus button on the top left corner of the web.
 
-    .. thumbnail:: _images/ai_training/add_plus.png
+    .. thumbnail:: /_images/ai_training/add_plus.png
 
 |
 
 -   Create a new python file by pressing the ``Python File`` button
 
-    .. thumbnail:: _images/ai_training/pick_python.png
+    .. thumbnail:: /_images/ai_training/pick_python.png
 
 |
 
@@ -157,7 +157,7 @@ Executing the Custom Program
 
 -   Open the ``02_12-3. tao_facedetect_camera.ipynb`` notebook.
 
-.. thumbnail:: /_images/ai_tao/facedetect_camera.png
+.. thumbnail:: /_images/ai_tao/face_camera.png
 
 |
 

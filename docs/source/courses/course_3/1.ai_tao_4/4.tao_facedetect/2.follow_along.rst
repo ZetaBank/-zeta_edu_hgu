@@ -30,7 +30,7 @@ Follow Along!
 -   | Running the cell code
     | `Ctrl + Enter`
 
-.. thumbnail:: /_images/ai_tao/dashcam.png
+.. thumbnail:: /_images/ai_tao/face.png
 
 
 -   Initialize your output stream, and your path, and import in the Image library
