@@ -6,7 +6,7 @@ Mission
 
     <div style="background: #ffe5b4" class="admonition note custom">
         <p style="background: #ffbf00" class="admonition-title">
-            Project Name: Custom Segmentation System
+            Project Name: Custom Deopth Estimation System
         </p>
         <div class="line-block">
             <div class="line"><strong>-</strong> This mission is an <strong>individual project</strong></div>
@@ -15,7 +15,7 @@ Mission
         </div>
     </div>
 
-Writing Custom segNet Program
+Writing Custom DepthNet Program
 ---------------------------------
 
 Similar to how we created a new python file in our team assignment, generate a new python file and name it ``02_8-2. depth_camera.py``.
@@ -61,10 +61,10 @@ Create a new python file in the Jupyter Notebook Environment:
         import argparse
         import sys
 
-        from jetson_inference import segNet
+        from jetson_inference import depthNet
         from jetson_utils import videoSource, videoOutput, cudaOverlay, cudaDeviceSynchronize
 
-        from depth_utils import *
+        from depth_utils import depthBuffers
 
 
 -   After all the libraries are imported, initialize the parser variable with ``argparse.ArgumentParser`` module. 
