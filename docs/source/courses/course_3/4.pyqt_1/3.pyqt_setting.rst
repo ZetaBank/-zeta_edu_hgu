@@ -25,7 +25,7 @@ Setting up and Installing PyQt5
 
     .. code-block:: bash
 
-       pip install python-qt5
+       pip2 install python-qt5
 
 5. Install the 'python' and 'qt for python' extensions in VSCode.
 

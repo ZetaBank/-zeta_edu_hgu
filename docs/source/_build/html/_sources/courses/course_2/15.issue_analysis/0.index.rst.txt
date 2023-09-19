@@ -19,10 +19,10 @@ Issue Analysis Project
 
 .. raw:: html
 
-Topic: What is the implementation methodology of the 4th industrial revolution?
+Topic: How will autonomous driving and mobility change?
 
-Reference: 'From Digital Transformation to Smart Transformation' by Lee Min-hwa (Author), Joo Kang-jin (Author)
-            <https://www.yes24.com/Product/Goods/74041990/>
+Reference: 'The Future of Mobility' by Seo Seong-hyun (Author)
+            <https://www.yes24.com/Product/Goods/105386907/>
 
 Evaluation Standard:
     1. Submit a report of 20 pages or more
