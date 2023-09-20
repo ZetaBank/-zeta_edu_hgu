@@ -20,7 +20,7 @@ extensions = [
     'sphinx.ext.intersphinx',
     'sphinx.ext.autosectionlabel',
     'sphinxcontrib.images',
-    'sphinxcontrib.youtube',
+    #'sphinxcontrib.youtube',
 ]
 
 intersphinx_mapping = {
