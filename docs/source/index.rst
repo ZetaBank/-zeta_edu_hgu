@@ -84,6 +84,7 @@ In Education Provided by ZetaBank:
     courses/course_4/3.depth_2/0.index
     courses/course_2/15.issue_analysis/0.index
     courses/course_2/9.team_coop/0.index
+    courses/course_2/18.mid_test/0.index
     courses/line
     courses/course_2/10.ai_1/0.index
     courses/course_2/11.ai_2/0.index
