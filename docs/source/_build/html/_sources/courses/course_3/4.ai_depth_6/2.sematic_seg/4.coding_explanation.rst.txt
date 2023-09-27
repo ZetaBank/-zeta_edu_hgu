@@ -43,7 +43,7 @@ With our python program, the user must specify
 
         !python3 $PROGRAM_PATH/segnet.py --network=fcn-resnet18-cityscapes $INPUT_PATH/$IMAGE_NAME $OUTPUT_PATH/$OUTPUT_NAME
 
-    With ``!python3 $PROGRAM_PATH/posenet.py`` as our activation function, we have:
+    With ``!python3 $PROGRAM_PATH/segnet.py`` as our activation function, we have:
     
     1.  ``--network=fcn-resnet18-cityscapes``: to specify which network we wished to use. (for this case FCN-ResNet18-City network)
     2.  ``$INPUT_PATH/$IMAGE_NAME``: to specify our input image location.
@@ -66,11 +66,13 @@ With our python program, the user must specify
 Minor Functionalities
 ----------------------
 
-There are optional flags or parameters you may set up for your ``posenet.py`` program. These parameters may control the width of the line connecting the keypoints
+There are optional flags or parameters you may set up for your ``segnet.py`` program. These parameters may control the width of the line connecting the keypoints
 the size of the keypoints displayed on the screen, how they are connected and so on. 
 
-There are 4 minor functionalities you may edit:
+There are 5 minor functionalities you may edit:
 
-1.  ``--visualize=overlay``: This parameter allows us to choose how we wish to display our detected poses on top of our original input. We can ``mask`` or ``overlay``. The default is ``overlay``.
-2.  ``--alpha=120``: This parameter controls the blending value for the overlay.
-3.  ``--filter-mode=0.0013``: This parameter controls the sampling methods. (point, linear (default = linear))
+1.  ``--filter-mode`` : Sets the filtering mode used during visualization. Can be either 'point' or 'linear'.
+2. ``--visualize`` : Determines how the output is visualized. Options include 'overlay', 'mask', or both.
+3. ``--ignore-class`` : Specifies a class that should be ignored during visualization, defaulting to 'void'.
+4. ``--alpha`` : Sets the alpha blending value used for overlay, ranging from 0.0 to 255.0.
+5. ``--stats`` : If set, computes statistics about the segmentation mask class output.

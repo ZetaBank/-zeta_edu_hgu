@@ -9,6 +9,12 @@
       <link rel="stylesheet" href="../../../../_static/css/theme.css" type="text/css" />
       <link rel="stylesheet" href="../../../../_static/css/toc_custom.css" type="text/css" />
       <link rel="stylesheet" href="../../../../_static/sphinxcontrib-images\LightBox2\lightbox2\dist\css\lightbox.css" type="text/css" />
+      <link rel="stylesheet" href="../../../../_static/sphinxcontrib-images\LightBox2\lightbox2\dist\css\lightbox.css" type="text/css" />
+      <link rel="stylesheet" href="../../../../_static/sphinxcontrib-images\LightBox2\lightbox2\dist\css\lightbox.css" type="text/css" />
+      <link rel="stylesheet" href="../../../../_static/sphinxcontrib-images\LightBox2\lightbox2\dist\css\lightbox.css" type="text/css" />
+      <link rel="stylesheet" href="../../../../_static/sphinxcontrib-images\LightBox2\lightbox2\dist\css\lightbox.css" type="text/css" />
+      <link rel="stylesheet" href="../../../../_static/sphinxcontrib-images\LightBox2\lightbox2\dist\css\lightbox.css" type="text/css" />
+      <link rel="stylesheet" href="../../../../_static/sphinxcontrib-images\LightBox2\lightbox2\dist\css\lightbox.css" type="text/css" />
       <link rel="stylesheet" href="../../../../_static/css/toc_custom.css" type="text/css" />
   <!--[if lt IE 9]>
     <script src="../../../../_static/js/html5shiv.min.js"></script>
@@ -18,6 +24,18 @@
         <script data-url_root="../../../../" id="documentation_options" src="../../../../_static/documentation_options.js"></script>
         <script src="../../../../_static/doctools.js"></script>
         <script src="../../../../_static/sphinx_highlight.js"></script>
+        <script src="../../../../_static/sphinxcontrib-images\LightBox2\lightbox2\dist\js\lightbox-plus-jquery.min.js"></script>
+        <script src="../../../../_static/sphinxcontrib-images\LightBox2\lightbox2-customize\jquery-noconflict.js"></script>
+        <script src="../../../../_static/sphinxcontrib-images\LightBox2\lightbox2\dist\js\lightbox-plus-jquery.min.js"></script>
+        <script src="../../../../_static/sphinxcontrib-images\LightBox2\lightbox2-customize\jquery-noconflict.js"></script>
+        <script src="../../../../_static/sphinxcontrib-images\LightBox2\lightbox2\dist\js\lightbox-plus-jquery.min.js"></script>
+        <script src="../../../../_static/sphinxcontrib-images\LightBox2\lightbox2-customize\jquery-noconflict.js"></script>
+        <script src="../../../../_static/sphinxcontrib-images\LightBox2\lightbox2\dist\js\lightbox-plus-jquery.min.js"></script>
+        <script src="../../../../_static/sphinxcontrib-images\LightBox2\lightbox2-customize\jquery-noconflict.js"></script>
+        <script src="../../../../_static/sphinxcontrib-images\LightBox2\lightbox2\dist\js\lightbox-plus-jquery.min.js"></script>
+        <script src="../../../../_static/sphinxcontrib-images\LightBox2\lightbox2-customize\jquery-noconflict.js"></script>
+        <script src="../../../../_static/sphinxcontrib-images\LightBox2\lightbox2\dist\js\lightbox-plus-jquery.min.js"></script>
+        <script src="../../../../_static/sphinxcontrib-images\LightBox2\lightbox2-customize\jquery-noconflict.js"></script>
         <script src="../../../../_static/sphinxcontrib-images\LightBox2\lightbox2\dist\js\lightbox-plus-jquery.min.js"></script>
         <script src="../../../../_static/sphinxcontrib-images\LightBox2\lightbox2-customize\jquery-noconflict.js"></script>
     <script src="../../../../_static/js/theme.js"></script>
@@ -951,7 +969,7 @@ set to be an environment variable.</p></li>
 <div class="highlight-python notranslate"><div class="highlight"><pre><span></span>!python3 $PROGRAM_PATH/segnet.py --network=fcn-resnet18-cityscapes $INPUT_PATH/$IMAGE_NAME $OUTPUT_PATH/$OUTPUT_NAME
 </pre></div>
 </div>
-<p class="linemarker linemarker-46">With <code class="docutils literal notranslate"><span class="pre">!python3</span> <span class="pre">$PROGRAM_PATH/posenet.py</span></code> as our activation function, we have:</p>
+<p class="linemarker linemarker-46">With <code class="docutils literal notranslate"><span class="pre">!python3</span> <span class="pre">$PROGRAM_PATH/segnet.py</span></code> as our activation function, we have:</p>
 <ol class="arabic simple">
 <li><p class="linemarker linemarker-48"><code class="docutils literal notranslate"><span class="pre">--network=fcn-resnet18-cityscapes</span></code>: to specify which network we wished to use. (for this case FCN-ResNet18-City network)</p></li>
 <li><p class="linemarker linemarker-49"><code class="docutils literal notranslate"><span class="pre">$INPUT_PATH/$IMAGE_NAME</span></code>: to specify our input image location.</p></li>
@@ -974,13 +992,15 @@ set to be an environment variable.</p></li>
 </section>
 <section id="minor-functionalities">
 <h2>Minor Functionalities<a class="headerlink" href="#minor-functionalities" title="Permalink to this heading"></a></h2>
-<p class="linemarker linemarker-69">There are optional flags or parameters you may set up for your <code class="docutils literal notranslate"><span class="pre">posenet.py</span></code> program. These parameters may control the width of the line connecting the keypoints
+<p class="linemarker linemarker-69">There are optional flags or parameters you may set up for your <code class="docutils literal notranslate"><span class="pre">segnet.py</span></code> program. These parameters may control the width of the line connecting the keypoints
 the size of the keypoints displayed on the screen, how they are connected and so on.</p>
-<p class="linemarker linemarker-72">There are 4 minor functionalities you may edit:</p>
+<p class="linemarker linemarker-72">There are 5 minor functionalities you may edit:</p>
 <ol class="arabic simple">
-<li><p class="linemarker linemarker-74"><code class="docutils literal notranslate"><span class="pre">--visualize=overlay</span></code>: This parameter allows us to choose how we wish to display our detected poses on top of our original input. We can <code class="docutils literal notranslate"><span class="pre">mask</span></code> or <code class="docutils literal notranslate"><span class="pre">overlay</span></code>. The default is <code class="docutils literal notranslate"><span class="pre">overlay</span></code>.</p></li>
-<li><p class="linemarker linemarker-75"><code class="docutils literal notranslate"><span class="pre">--alpha=120</span></code>: This parameter controls the blending value for the overlay.</p></li>
-<li><p class="linemarker linemarker-76"><code class="docutils literal notranslate"><span class="pre">--filter-mode=0.0013</span></code>: This parameter controls the sampling methods. (point, linear (default = linear))</p></li>
+<li><p class="linemarker linemarker-74"><code class="docutils literal notranslate"><span class="pre">--filter-mode</span></code> : Sets the filtering mode used during visualization. Can be either ‘point’ or ‘linear’.</p></li>
+<li><p class="linemarker linemarker-75"><code class="docutils literal notranslate"><span class="pre">--visualize</span></code> : Determines how the output is visualized. Options include ‘overlay’, ‘mask’, or both.</p></li>
+<li><p class="linemarker linemarker-76"><code class="docutils literal notranslate"><span class="pre">--ignore-class</span></code> : Specifies a class that should be ignored during visualization, defaulting to ‘void’.</p></li>
+<li><p class="linemarker linemarker-77"><code class="docutils literal notranslate"><span class="pre">--alpha</span></code> : Sets the alpha blending value used for overlay, ranging from 0.0 to 255.0.</p></li>
+<li><p class="linemarker linemarker-78"><code class="docutils literal notranslate"><span class="pre">--stats</span></code> : If set, computes statistics about the segmentation mask class output.</p></li>
 </ol>
 </section>
 </section>
