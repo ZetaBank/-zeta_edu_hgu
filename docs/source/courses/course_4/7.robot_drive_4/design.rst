@@ -31,3 +31,6 @@ What to do :
     - You need to decide what function you want to perform in a given field.
     - Think about the sensors and devices you need to attach to perform the task.
     - Designing a Robot
+
+EX) Model C : 
+    - 
