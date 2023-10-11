@@ -21,7 +21,7 @@ Team Quiz (Robot Arm)
 
 Topic: 
     1. Robot arm analysis questions
-        1. Kinematics and Dynamics of Robot Arms: In which fields are the principles of kinematics and dynamics of robot arms applied in practice?
+        1. Kinematics and Inverse Kinematics of Robot Arms: In which fields are the principles of kinematics and inverse kinematics of robot arms applied in practice?
         2. Robot Arms and Algorithms: What real-time motion planning and path planning algorithms are used in the control systems of robot arms, and what performance differences exist between them?
         3. Robot Arms and Deep Learning: How are machine learning and deep learning algorithms utilized for real-time learning and adaptation in robot manipulation?
         4. Precision Manipulation with Robot Arms: Which type of robot arm, either multi-axis or parallel, is more suitable for precise manipulation and high-speed operations?
