@@ -45,7 +45,7 @@ Topic:
         10. Military Applications of Robot Arms: How are robot arms utilized in the military and defense sector, and what security issues are involved?
 
 Evaluation Standard:
-    1. Choose two AI Robot arm analysis questions and two Robot arm application questions to submit your report.
+    1. Choose two Robot arm analysis questions and two Robot arm application questions to submit your report.
 
     2. The report evaluation criteria are as follows.
         - A+ : Write at least 20 pages
