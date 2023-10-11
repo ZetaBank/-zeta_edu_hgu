@@ -35,6 +35,7 @@ What to do :
 You don’t have to be exact, and you don’t have to worry too much.
 We wanted to give you a sense of the joy that designing robots can bring.
 We hope that your current concerns about what kind of robot to make will help you make future career decisions.
+
 ----------------------------------------------------------------------------
 
 EX) Model C : 
