@@ -133,5 +133,6 @@ In Education Provided by ZetaBank:
     courses/course_4/9.robot_arm_1/0.index
     courses/course_4/10.robot_arm_2/0.index
     courses/course_4/11.robot_arm_3/0.index
+    courses/course_4/14.team_quiz/0.index
     courses/course_4/12.team_diy/0.index
     courses/course_4/13.team_diy_presentation/0.index
