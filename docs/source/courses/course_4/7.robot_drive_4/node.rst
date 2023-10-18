@@ -46,7 +46,7 @@ Path Planner
 
 -------------------------------------------------------------------------------
 
-Mimetic Diagram
+Diagram
 ^^^^^^^^^^^^^^^^^^^^^^
 
 .. thumbnail:: /_images/autodrive/22.png
