@@ -38,5 +38,5 @@ Top View
 .. thumbnail:: /_images/components/top.png
 
 - Air Purifier Fan : Air purification through fans and filters inside the robot
-- LED battery : Displays the robot's battery status and function through color change
+- LED Bar : Displays the robot's battery status and function through color change
 - Object Recognition Camera : Detect people and stop driving for app users

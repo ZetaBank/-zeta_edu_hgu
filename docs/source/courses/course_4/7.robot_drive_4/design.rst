@@ -47,7 +47,7 @@ EX) Model C :
             1.Where to use
         </p>
         <ul>
-            <li>Perform service work in crowded places</li>
+            <li>The purpose is to perform service work in places where many people gather.</li>
             <li>Where will the robot be used?</li>
             <li>What function do you want to perform?</li>
         </ul>
