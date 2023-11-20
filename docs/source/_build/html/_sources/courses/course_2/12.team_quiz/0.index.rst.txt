@@ -1,4 +1,4 @@
-Team Quiz (AI)
+Team Problem Solving (AI)
 ================
 
 .. raw:: html

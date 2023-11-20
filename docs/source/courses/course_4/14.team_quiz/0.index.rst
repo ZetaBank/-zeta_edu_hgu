@@ -1,4 +1,4 @@
-Team Quiz (Robot Arm)
+Team Problem Solving (Robot Arm)
 ================
 
 .. raw:: html

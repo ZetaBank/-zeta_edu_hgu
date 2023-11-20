@@ -1,4 +1,4 @@
-Team Quiz (Robot)
+Team Problem Solving (Robot)
 ================
 
 .. raw:: html
